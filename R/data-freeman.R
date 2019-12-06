@@ -1,0 +1,7 @@
+#' Political Blogs
+#' @description The data were compiled by Lada Adamic and Natalie Glance. Links between blogs were automatically extracted from a crawl of the front page of the blog. In addition the authors drew on various sources (blog directories, and incoming and outgoing links and posts around the time of the 2004 presidential election) and classified the first 758 blogs as left-leaning and the remaining 732 as right-leaning.
+
+#' @format igraph object
+#' @source http://moreno.ss.uci.edu/data.html#blogs
+#' @references Lada A. Adamic and Natalie Glance, "The political blogosphere and the 2004 US election", *Proceedings of the WWW-2005 Workshop on the Weblogging Ecosystem* (2005)
+"polblogs"

@@ -1,0 +1,19 @@
+Package: networkdata
+Type: Package
+Title: Network Data Repository
+Version: 0.1.0
+Authors@R: 
+    person(given = "David",
+           family = "Schoch",
+           role = c("aut", "cre"),
+           email = "david.schoch@manchester.ac.uk")
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+Imports: 
+    igraph
