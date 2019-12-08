@@ -1,15 +1,17 @@
 Package: networkdata
 Type: Package
-Title: Network Data Repository
-Version: 0.1.0
+Title: Repository of Network Datasets 
+Version: 0.1.0.9000
 Authors@R: 
     person(given = "David",
            family = "Schoch",
            role = c("aut", "cre"),
            email = "david.schoch@manchester.ac.uk")
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Maintainer: David Schoch <david.schoch@manchester.ac.uk>
+Description: The package contains a large collection of network dataset with different context. All networks are in `igraph` format.
+Depends: R (>= 3.2.0)
+URL: https://github.com/schochastics/networkdata
+BugReports: https://github.com/schochastics/signnet/networkdata
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

@@ -16,40 +16,33 @@ knitr::opts_chunk$set(
 # networkdata
 
 <!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![Downloads](https://cranlogs.r-pkg.org/badges/networkdata)](https://CRAN.R-project.org/package=networkdata)
 <!-- badges: end -->
 
-The goal of networkdata is to ...
+The package contains a large variety of different network datasets (all in `igraph` format). So far, it includes datsets from the following repositories: 
+
+- Freeman's datasets from http://moreno.ss.uci.edu/data
+- Movie networks from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
+- Covert networks from https://sites.google.com/site/ucinetsoftware/datasets/covert-networks
+- Animal networks from https://bansallab.github.io/asnr/
+- Shakespeare's plays networks build with data from https://github.com/mallaham/Shakespeare-Plays
+
+A list of all datasets can be obtained with
+```{r data,eval=FALSE}
+data(package = "networkdata")
+```
+
+So far, the package contains `r length(list.files("data"))` datasets. 
+
+**Feel free to add your own datset via a pull request**
 
 ## Installation
 
-You can install the released version of networkdata from [CRAN](https://CRAN.R-project.org) with:
+You can install the developers version of networkdata with:
 
-``` r
-install.packages("networkdata")
+```{r install, eval=FALSE}
+#install.packages("remotes")
+remotes::install_github("networkdata")
 ```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-```{r example}
-library(networkdata)
-## basic example code
-```
-
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
-
-```{r cars}
-summary(cars)
-```
-
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub!
