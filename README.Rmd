@@ -49,3 +49,7 @@ remotes::install_github("networkdata")
 ```
 
 The required space for the package is around 18MB, given that it includes a lot of data.
+
+## Note
+
+Please report any missing sources/references for datasets.
