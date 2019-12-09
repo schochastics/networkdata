@@ -7,11 +7,10 @@ Authors@R:
            family = "Schoch",
            role = c("aut", "cre"),
            email = "david.schoch@manchester.ac.uk")
-Maintainer: David Schoch <david.schoch@manchester.ac.uk>
-Description: The package contains a large collection of network dataset with different context. All networks are in `igraph` format.
+Description: The package contains a large collection of network dataset with different context. This includes social networks, animal networks and movie networks. All datasets are in 'igraph' format.
 Depends: R (>= 3.2.0)
 URL: https://github.com/schochastics/networkdata
-BugReports: https://github.com/schochastics/signnet/networkdata
+BugReports: https://github.com/schochastics/signnet/networkdata/issues
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

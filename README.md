@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# networkdata
+# networkdata <img src="man/figures/logo.png" align="right"/>
 
 <!-- badges: start -->
 
@@ -24,6 +24,7 @@ repositories:
   - Animal networks from <https://bansallab.github.io/asnr/>
   - Shakespeare’s plays networks build with data from
     <https://github.com/mallaham/Shakespeare-Plays>
+  - Some networks from <http://konect.uni-koblenz.de/>
 
 A list of all datasets can be obtained with
 
@@ -31,7 +32,7 @@ A list of all datasets can be obtained with
 data(package = "networkdata")
 ```
 
-So far, the package contains 954 datasets.
+So far, the package contains 976 datasets.
 
 **Feel free to add your own datset via a pull request**
 
@@ -43,3 +44,6 @@ You can install the developers version of networkdata with:
 #install.packages("remotes")
 remotes::install_github("networkdata")
 ```
+
+The required space for the package is around 18MB, given that it
+includes a lot of data.

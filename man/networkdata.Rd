@@ -17,6 +17,7 @@ The package includes data from the following sources:
 \item \code{covert networks} from \url{https://sites.google.com/site/ucinetsoftware/datasets/covert-networks}
 \item \code{animal networks} from \url{https://bansallab.github.io/asnr/}
 \item \code{shakespeare networks} build with data from \url{https://github.com/mallaham/Shakespeare-Plays}
+\item some networks from \url{http://konect.uni-koblenz.de/}
 }
 and a range of miscellaneous network datasets.
 
