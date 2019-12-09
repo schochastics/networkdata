@@ -26,13 +26,16 @@ repositories:
     <https://github.com/mallaham/Shakespeare-Plays>
   - Some networks from <http://konect.uni-koblenz.de/>
 
+The package contains 976 datasets.
+
 A list of all datasets can be obtained with
 
 ``` r
 data(package = "networkdata")
 ```
 
-So far, the package contains 976 datasets.
+Alternatively, use the function `show_networks()` to get a list of
+datasets with desired properties.
 
 **Feel free to add your own datset via a pull request**
 
