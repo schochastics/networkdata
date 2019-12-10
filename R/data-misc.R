@@ -59,7 +59,7 @@
 #' Check out \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0017249} for a potential use case.
 #' @format list of igraph objects
 #' @seealso [wta]
-#' @source Data was gathered and compiled by Jeff Sackmann (https://github.com/JeffSackmann). Please give credit to him if you use this data.
+#' @source Networks constructed from data that was gathered and compiled by Jeff Sackmann (https://github.com/JeffSackmann). Please give credit to him if you use this data.
 "atp"
 
 #' WTA Tennis (1968-2019)
@@ -77,5 +77,5 @@
 #' Check out \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0017249} for a potential use case.
 #' @format list of igraph objects
 #' @seealso [atp]
-#' @source Data was gathered and compiled by Jeff Sackmann (https://github.com/JeffSackmann). Please give credit to him if you use this data.
+#' @source Networks constructed from data that was gathered and compiled by Jeff Sackmann (https://github.com/JeffSackmann). Please give credit to him if you use this data.
 "wta"
