@@ -10,7 +10,7 @@ status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-projec
 [![drat
 status](https://img.shields.io/badge/drat-0.1.0-red.svg)](https://github.com/schochastics/drat)
 [![drat
-status](https://img.shields.io/badge/networks-2135-green.svg)](https://github.com/schochastics/drat)
+status](https://img.shields.io/badge/networks-2135-green.svg)](https://github.com/schochastics/networkdata)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
