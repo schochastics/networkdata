@@ -3,7 +3,7 @@
 \docType{data}
 \name{adjnoun}
 \alias{adjnoun}
-\title{Centrality literature network}
+\title{Words in David Copperfield}
 \format{igraph object}
 \source{
 http://www-personal.umich.edu/~mejn/netdata/

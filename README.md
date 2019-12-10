@@ -25,8 +25,10 @@ repositories:
   - Shakespeare’s plays networks build with data from
     <https://github.com/mallaham/Shakespeare-Plays>
   - Some networks from <http://konect.uni-koblenz.de/>
+  - Tennis networks compiled from <https://github.com/JeffSackmann>
+    (please give credit to him if you use this data)
 
-The package contains 976 datasets.
+The package includes 979 datasets containing 2135 networks.
 
 A list of all datasets can be obtained with
 
@@ -37,7 +39,7 @@ data(package = "networkdata")
 Alternatively, use the function `show_networks()` to get a list of
 datasets with desired properties.
 
-**Feel free to add your own datset via a pull request**
+**Feel free to add your own dataset via a pull request**
 
 ## Installation
 
@@ -48,8 +50,8 @@ You can install the developers version of networkdata with:
 remotes::install_github("schochastics/networkdata")
 ```
 
-The required space for the package is around 18MB, given that it
-includes a lot of data.
+The required space for the package is ~22MB, given that it includes a
+lot of data.
 
 ## Notes
 

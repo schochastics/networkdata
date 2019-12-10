@@ -16,7 +16,7 @@
 "cent_lit"
 
 
-#' Centrality literature network
+#' Words in David Copperfield
 #' @description A network of common adjective and noun adjacencies for the novel "David Copperfield" by Charles Dickens, as described by M. Newman. Nodes represent the most commonly occurring adjectives and nouns in the book. Edges connect any pair of words that occur in adjacent position in the text of the book.
 
 #' @format igraph object
@@ -24,3 +24,58 @@
 #' @references
 #' Newman, Mark EJ. "Finding community structure in networks using the eigenvectors of matrices." *Physical Review E* 74.3 (2006): 036104.
 "adjnoun"
+
+#' Game of Thrones Interactions
+#' @description Character Interaction Networks for the HBO Series "Game of Thrones" (Season 1-7).
+#' These networks were created by parsing fan-generated scripts from https://genius.com/artists/Game-of-thrones.
+#' Pairs of characters are connected by (undirected) edges weighted by the number of interactions.
+#'
+#'\preformatted{
+#'There are five interaction types. Character A and Character B are connected whenever:
+#'
+#' Character A speaks directly after Character B
+#' Character A speaks about Character B
+#' Character C speaks about Character A and Character B
+#' Character A and Character B are mentioned in the same stage direction
+#' Character A and Character B appear in a scene together
+#'}
+#' @format list of igraph objects
+#' @source https://networkofthrones.wordpress.com, Downloaded from https://github.com/mathbeveridge/gameofthrones/
+#' @references  Andrew Beveridge and Michael Chemers, "The Game of 'The Game of Thrones': Networked Concordances and Fractal Dramaturgy", in: Paola Brembilla and Ilaria De Pacalis (eds.), Reading Contemporary Serial Television Universes: A Narrative Ecosystem Framework, Routledge, 2018.
+"got"
+
+#' ATP Tennis (1968-2019)
+#' @description The dataset includes all ATP tennis matches from 1968-2019. The networks are directed pointing from the loser to the winner.
+#' Each network contains the following attributes:
+#' \preformatted{
+#' Edge attributes:
+#'    - surface: on which surface the match(es) took place (e.g. "Hard", "Grass", "Clay")
+#'    - weight: number of times Player A lost to Player B on surface X
+#' Vertex attributes:
+#'    - hand: if player is (L)eft or (R)ight handed (or (U)nknown)
+#'    - age: age of player during the season
+#'    - country: home country of player
+#' }
+#' Check out \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0017249} for a potential use case.
+#' @format list of igraph objects
+#' @seealso [wta]
+#' @source Data was gathered and compiled by Jeff Sackmann (https://github.com/JeffSackmann). Please give credit to him if you use this data.
+"atp"
+
+#' WTA Tennis (1968-2019)
+#' @description The dataset includes all WTA tennis matches from 1968-2019. The networks are directed pointing from the loser to the winner.
+#' Each network contains the following attributes:
+#' \preformatted{
+#' Edge attributes:
+#'    - surface: on which surface the match(es) took place (e.g. "Hard", "Grass", "Clay")
+#'    - weight: number of times Player A lost to Player B on surface X
+#' Vertex attributes:
+#'    - hand: if player is (L)eft or (R)ight handed (or (U)nknown)
+#'    - age: age of player during the season
+#'    - country: home country of player
+#' }
+#' Check out \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0017249} for a potential use case.
+#' @format list of igraph objects
+#' @seealso [atp]
+#' @source Data was gathered and compiled by Jeff Sackmann (https://github.com/JeffSackmann). Please give credit to him if you use this data.
+"wta"

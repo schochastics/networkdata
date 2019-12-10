@@ -11,6 +11,8 @@ knitr::opts_chunk$set(
   fig.path = "man/figures/README-",
   out.width = "100%"
 )
+nets <- sum(networkdata:::net_attrs$no_of_networks)
+
 ```
 
 # networkdata <img src="man/figures/logo.png" align="right"/>
@@ -29,8 +31,9 @@ The package contains a large variety of different network datasets (all in `igra
 - Animal networks from https://bansallab.github.io/asnr/
 - Shakespeare's plays networks build with data from https://github.com/mallaham/Shakespeare-Plays
 - Some networks from http://konect.uni-koblenz.de/
+- Tennis networks compiled from https://github.com/JeffSackmann (please give credit to him if you use this data) 
 
-The package contains `r length(list.files("data"))` datasets. 
+The package includes `r length(list.files("data"))` datasets containing `r nets` networks. 
 
 A list of all datasets can be obtained with
 ```{r data,eval=FALSE}
@@ -39,7 +42,7 @@ data(package = "networkdata")
 
 Alternatively, use the function `show_networks()` to get a list of datasets with desired properties.
 
-**Feel free to add your own datset via a pull request**
+**Feel free to add your own dataset via a pull request**
 
 ## Installation
 
@@ -50,7 +53,7 @@ You can install the developers version of networkdata with:
 remotes::install_github("schochastics/networkdata")
 ```
 
-The required space for the package is around 18MB, given that it includes a lot of data.
+The required space for the package is ~22MB, given that it includes a lot of data.
 
 ## Notes
 

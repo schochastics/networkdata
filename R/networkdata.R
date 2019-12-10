@@ -11,6 +11,7 @@
 #' \item `animal networks` from \url{https://bansallab.github.io/asnr/}
 #' \item `shakespeare networks` build with data from \url{https://github.com/mallaham/Shakespeare-Plays}
 #' \item some networks from \url{http://konect.uni-koblenz.de/}
+#' \item - Tennis networks compiled from \url{https://github.com/JeffSackmann} (please give credit to him if you use this data)
 #' }
 #' and a range of miscellaneous network datasets.
 #'
