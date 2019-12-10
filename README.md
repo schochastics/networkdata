@@ -41,5 +41,5 @@ You can install the developers version of networkdata with:
 
 ``` r
 #install.packages("remotes")
-remotes::install_github("networkdata")
+remotes::install_github("schochastics/networkdata")
 ```
