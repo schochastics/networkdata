@@ -19,8 +19,9 @@ nets <- sum(networkdata:::net_attrs$no_of_networks)
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
-[![Downloads](https://cranlogs.r-pkg.org/badges/networkdata)](https://CRAN.R-project.org/package=networkdata)
+[![drat status](https://img.shields.io/badge/drat-0.1.0-red.svg)](https://github.com/schochastics/drat)
+[![drat status](https://img.shields.io/badge/networks-2135-green.svg)](https://github.com/schochastics/drat)
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 
 The package contains a large variety of different network datasets (all in `igraph` format). So far, it includes datsets from the following repositories: 
@@ -46,12 +47,23 @@ Alternatively, use the function `show_networks()` to get a list of datasets with
 
 ## Installation
 
-You can install the developers version of networkdata with:
+Due to the nature of the package (only data, no functions), the package will not go to CRAN at any point.
+However, the package is available via drat (If you are looking for stable builds of the package).
+With drat, you can install and upgrade non-CRAN packages directly from R using the standard `install.packages()` and `update.packages()` functions. 
+
+```{r drat, eval=FALSE}
+# install.packages("drat")
+drat::addRepo("schochastics")
+install.packages("networkdata")
+```
+
+The developer version can be installed with:
 
 ```{r install, eval=FALSE}
 #install.packages("remotes")
 remotes::install_github("schochastics/networkdata")
 ```
+
 
 The required space for the package is ~22MB, given that it includes a lot of data.
 
