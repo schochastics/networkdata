@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# networkdata
+# networkdata <img src="man/figures/logo.png" align="right"/>
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
@@ -28,13 +28,16 @@ The package contains a large variety of different network datasets (all in `igra
 - Covert networks from https://sites.google.com/site/ucinetsoftware/datasets/covert-networks
 - Animal networks from https://bansallab.github.io/asnr/
 - Shakespeare's plays networks build with data from https://github.com/mallaham/Shakespeare-Plays
+- Some networks from http://konect.uni-koblenz.de/
+
+The package contains `r length(list.files("data"))` datasets. 
 
 A list of all datasets can be obtained with
 ```{r data,eval=FALSE}
 data(package = "networkdata")
 ```
 
-So far, the package contains `r length(list.files("data"))` datasets. 
+Alternatively, use the function `show_networks()` to get a list of datasets with desired properties.
 
 **Feel free to add your own datset via a pull request**
 
@@ -46,3 +49,10 @@ You can install the developers version of networkdata with:
 #install.packages("remotes")
 remotes::install_github("schochastics/networkdata")
 ```
+
+The required space for the package is around 18MB, given that it includes a lot of data.
+
+## Notes
+
+- Please report any missing sources/references for datasets.
+- Many datasets were automatically assembled and may thus contain errors (not all were manually checked). If you spot any, please report them. Check the original sources for any inconsistencies if you want to use the data in an academic paper.
