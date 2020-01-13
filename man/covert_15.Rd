@@ -23,6 +23,6 @@ DATA FORMATS: UCINET, .csv
 The ties are co-appearances – every time an actor was mentioned in one article together with any other actor, it is considered to be a tie.
 Ties are valued on am 11 point scale, where 10 is the strongest tie (Nagyova – Necas).
 All other ties were transformed by dividing the total number of co-appearances between the two actors by the value of the strongest tie, which gave the percent of the maximal tie. This percentage was then assigned an integer value from range 0 - 9 according to which tenth of percents this particular value falls into.
-Example: The Fuksa - Nagyova tie reaching 50% of the strongest tie value was assigned a value of 5. The Nagyova - Ryba tie reaching 3% of the max value was assigned zero etc.
+Example: The Fuksa - Nagyova tie reaching 50\% of the strongest tie value was assigned a value of 5. The Nagyova - Ryba tie reaching 3\% of the max value was assigned zero etc.
 }
 \keyword{datasets}

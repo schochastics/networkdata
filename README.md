@@ -8,7 +8,7 @@
 [![CRAN
 status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
 [![drat
-status](https://img.shields.io/badge/drat-0.1.2-red.svg)](https://github.com/schochastics/drat)
+status](https://img.shields.io/badge/drat-0.1.3-red.svg)](https://github.com/schochastics/drat)
 [![drat
 status](https://img.shields.io/badge/networks-2135-green.svg)](https://github.com/schochastics/networkdata)
 [![Lifecycle:

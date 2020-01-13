@@ -24,6 +24,6 @@ Breiger R. and Pattison P. (1986). Cumulated social roles: The duality of person
 Kent D. (1978). The rise of the Medici: Faction in Florence, 1426-1434. Oxford: Oxford University Press.
 }
 \seealso{
-\link{flo_mariage}
+\link{flo_marriage}
 }
 \keyword{datasets}

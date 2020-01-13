@@ -1,3 +1,7 @@
+# networkdata 0.1.3
+
+* fixed name mapping in florentine families dataset.
+
 # networkdata 0.1.2
 
 * some movie data was wrongly mapped. should be fixed now.
