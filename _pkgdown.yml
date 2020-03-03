@@ -14,11 +14,11 @@ navbar:
          href: http://blog.schochastics.net/post/a-large-repository-of-networkdata/
   right:
       - icon: fa-newspaper-o
-        text: "news"
+        text: "News"
         href: news/index.html
       - icon: fa-file-code-o
-        text: "functions"
+        text: "Functions"
         href: reference/index.html
       - icon: fa-github fa-lg
-        text: "github"
+        text: "Github"
         href: https://github.com/schochastics/networkdata
