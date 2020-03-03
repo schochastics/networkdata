@@ -22,7 +22,7 @@ the direction of Professor Sean Everton, Co-Director of the CORE Lab, and Profes
 Assistant Daniel Cunningham reviewed and cleaned all coding made by students.
 NETWORK  1-mode stacked matrix 79 x 79 person by person. Ties are undirected.
 Ties include classmates; friendship; soulmates; co-location of logistical activity; co-attendance at meetings; co-participation in operations; co-attendance at training events; communications; business & financial ties.
-Codebook available here http://www.thearda.com/archive/files/codebooks/origCB/Noordin%20Subset%20Codebook.pdf
+Codebook available here http://www.thearda.com/archive/files/codebooks/origCB/Noordin\%20Subset\%20Codebook.pdf
 }
 \references{
 Roberts, Nancy and Sean F. Everton. 2011. Roberts and Everton Terrorist Data: Noordin Top Terrorist Network (Subset).

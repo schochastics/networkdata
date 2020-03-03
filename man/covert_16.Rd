@@ -20,6 +20,6 @@ Directed binary ties are based on analysis of hyperlinks between sites.
 }
 \references{
 Zhou et al. (2005), ‘US domestic extremist groups
-on the web: link and content analysis’, available at http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1511999&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D1511999
+on the web: link and content analysis’, available at http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1511999&url=http\%3A\%2F\%2Fieeexplore.ieee.org\%2Fxpls\%2Fabs_all.jsp\%3Farnumber\%3D1511999
 }
 \keyword{datasets}
