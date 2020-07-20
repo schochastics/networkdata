@@ -4,7 +4,9 @@
 \name{movie_25}
 \alias{movie_25}
 \title{Agnes of God}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{radoslaw_email}
 \alias{radoslaw_email}
 \title{Radoslaw - Email Network}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://www.ii.pwr.wroc.pl/~michalski/index.php?content=datasets#manufacturing

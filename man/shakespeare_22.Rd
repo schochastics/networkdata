@@ -4,7 +4,9 @@
 \name{shakespeare_22}
 \alias{shakespeare_22}
 \title{Merchant of Venice}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

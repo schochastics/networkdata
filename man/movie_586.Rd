@@ -4,7 +4,9 @@
 \name{movie_586}
 \alias{movie_586}
 \title{The Rocky Horror Picture Show}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

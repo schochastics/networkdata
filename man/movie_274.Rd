@@ -4,7 +4,9 @@
 \name{movie_274}
 \alias{movie_274}
 \title{Freddy vs. Jason}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

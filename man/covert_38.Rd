@@ -4,7 +4,9 @@
 \name{covert_38}
 \alias{covert_38}
 \title{Provisional Irish Republican Army}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks).
 }

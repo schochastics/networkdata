@@ -4,7 +4,9 @@
 \name{movie_4}
 \alias{movie_4}
 \title{127 Hours}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

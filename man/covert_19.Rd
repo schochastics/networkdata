@@ -4,7 +4,9 @@
 \name{covert_19}
 \alias{covert_19}
 \title{Global Suicide Attacks}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks). Reconstructed from Benjamin Acosta & Steven J. Childs (2013) ‘Illuminating the Global Suicide-Attack Network’, Studies in Conflict & Terrorism, 36:1, 49-76
 }

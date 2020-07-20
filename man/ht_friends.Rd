@@ -4,7 +4,9 @@
 \name{ht_friends}
 \alias{ht_friends}
 \title{High-tech Managers (Friendships)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#krackht
 }

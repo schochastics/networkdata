@@ -4,7 +4,9 @@
 \name{movie_598}
 \alias{movie_598}
 \title{Save the Last Dance}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

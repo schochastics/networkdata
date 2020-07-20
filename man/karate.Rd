@@ -4,7 +4,9 @@
 \name{karate}
 \alias{karate}
 \title{Karate Club (binary)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#zachary
 }

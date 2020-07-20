@@ -4,7 +4,9 @@
 \name{shakespeare_21}
 \alias{shakespeare_21}
 \title{Measure for measure}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

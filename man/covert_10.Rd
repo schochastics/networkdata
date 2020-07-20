@@ -4,7 +4,9 @@
 \name{covert_10}
 \alias{covert_10}
 \title{Caviar}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks), reconstructed from Morselli’s book, Inside Criminal Networks http://www.springer.com/social+sciences/criminology/book/978-0-387-09525-7 Book pages from 173 to 186, Appendix
 }

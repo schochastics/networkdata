@@ -4,7 +4,9 @@
 \name{animal_29}
 \alias{animal_29}
 \title{Rhesusmacaque Association (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

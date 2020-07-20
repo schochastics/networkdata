@@ -4,7 +4,9 @@
 \name{covert_17}
 \alias{covert_17}
 \title{Drugnet}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://sites.google.com/site/sfeverton18/research/cohesion-and-clustering
 }

@@ -4,7 +4,9 @@
 \name{movie_257}
 \alias{movie_257}
 \title{Fatal Instinct}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

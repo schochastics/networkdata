@@ -4,7 +4,9 @@
 \name{movie_763}
 \alias{movie_763}
 \title{The Woodsman}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{covert_12}
 \alias{covert_12}
 \title{CielNet}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks). Reconstructed from Morselli’s book, Inside Criminal Networks http://www.springer.com/social+sciences/criminology/book/978-0-387-09525-7 book page 172, Appendix.
 }

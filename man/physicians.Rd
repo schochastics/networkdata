@@ -4,7 +4,9 @@
 \name{physicians}
 \alias{physicians}
 \title{Innovations among Physicians}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#ckm
 }

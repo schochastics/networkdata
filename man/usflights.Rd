@@ -4,7 +4,9 @@
 \name{usflights}
 \alias{usflights}
 \title{US Flights 2010}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://toreopsahl.com/datasets/#usairports

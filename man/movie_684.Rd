@@ -4,7 +4,9 @@
 \name{movie_684}
 \alias{movie_684}
 \title{The Talented Mr. Ripley}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

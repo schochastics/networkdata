@@ -4,7 +4,9 @@
 \name{arenas_email}
 \alias{arenas_email}
 \title{Arenas Email}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://deim.urv.cat/~aarenas/data/welcome.htm

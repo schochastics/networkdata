@@ -4,7 +4,9 @@
 \name{eies_messages}
 \alias{eies_messages}
 \title{EIES (Messages)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#eies
 }

@@ -4,7 +4,9 @@
 \name{movie_480}
 \alias{movie_480}
 \title{Mini's First Time}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

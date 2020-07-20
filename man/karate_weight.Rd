@@ -4,7 +4,9 @@
 \name{karate_weight}
 \alias{karate_weight}
 \title{Karate Club (weighted)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#zachary
 }

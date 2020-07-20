@@ -4,7 +4,9 @@
 \name{covert_42}
 \alias{covert_42}
 \title{Slumlords}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available at http://www.orgnet.com/slumlords.html and reconstructed at Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks).
 }

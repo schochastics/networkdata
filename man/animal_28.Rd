@@ -4,7 +4,9 @@
 \name{animal_28}
 \alias{animal_28}
 \title{Raccoon Proximity (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

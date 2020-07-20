@@ -4,7 +4,9 @@
 \name{movie_329}
 \alias{movie_329}
 \title{He's Just Not That Into You}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

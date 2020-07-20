@@ -4,7 +4,9 @@
 \name{movie_265}
 \alias{movie_265}
 \title{Five Easy Pieces}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

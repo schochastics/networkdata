@@ -4,7 +4,9 @@
 \name{movie_489}
 \alias{movie_489}
 \title{Mr. Blandings Builds His Dream House}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

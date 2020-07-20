@@ -4,7 +4,9 @@
 \name{covert_23}
 \alias{covert_23}
 \title{Islamic State Group}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks). Reconstructed from http://www.bbc.co.uk/news/world-middle-east-29052475
 }

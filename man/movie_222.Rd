@@ -4,7 +4,9 @@
 \name{movie_222}
 \alias{movie_222}
 \title{Drag Me to Hell}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

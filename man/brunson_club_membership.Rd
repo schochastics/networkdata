@@ -4,7 +4,9 @@
 \name{brunson_club_membership}
 \alias{brunson_club_membership}
 \title{Brunson Club Membership}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from https://github.com/corybrunson/triadic

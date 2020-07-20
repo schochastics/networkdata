@@ -4,7 +4,9 @@
 \name{movie_401}
 \alias{movie_401}
 \title{Kill Bill: Vol. 1}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

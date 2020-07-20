@@ -4,7 +4,9 @@
 \name{wta}
 \alias{wta}
 \title{WTA Tennis (1968-2019)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Networks constructed from data that was gathered and compiled by Jeff Sackmann (https://github.com/JeffSackmann). Please give credit to him if you use this data.
 }

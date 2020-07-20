@@ -4,7 +4,9 @@
 \name{animal_15}
 \alias{animal_15}
 \title{Asianelephants Dominance (unweighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

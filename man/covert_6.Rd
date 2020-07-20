@@ -4,7 +4,9 @@
 \name{covert_6}
 \alias{covert_6}
 \title{Bali Bombing 2002/Jemaah Islamiyah}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks) or here http://doitapps.jjay.cuny.edu/jjatt/data.php
 }

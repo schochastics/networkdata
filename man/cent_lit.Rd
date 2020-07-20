@@ -4,7 +4,9 @@
 \name{cent_lit}
 \alias{cent_lit}
 \title{Centrality literature network}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://sites.google.com/site/ucinetsoftware/datasets/centralityliteraturenetwork
 }

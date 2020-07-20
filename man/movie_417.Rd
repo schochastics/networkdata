@@ -4,7 +4,9 @@
 \name{movie_417}
 \alias{movie_417}
 \title{The Last Flight of Noah's Ark}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

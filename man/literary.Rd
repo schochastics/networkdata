@@ -4,7 +4,9 @@
 \name{literary}
 \alias{literary}
 \title{Swedish Literary Criticism}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#swedish
 }

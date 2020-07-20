@@ -4,7 +4,9 @@
 \name{polbooks}
 \alias{polbooks}
 \title{Political Books}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#books
 }

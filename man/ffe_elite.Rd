@@ -4,7 +4,9 @@
 \name{ffe_elite}
 \alias{ffe_elite}
 \title{French Financial Elite (elite)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#ffe
 }

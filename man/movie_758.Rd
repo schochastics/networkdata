@@ -4,7 +4,9 @@
 \name{movie_758}
 \alias{movie_758}
 \title{Where the Wild Things Are}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

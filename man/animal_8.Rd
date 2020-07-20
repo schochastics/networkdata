@@ -4,7 +4,9 @@
 \name{animal_8}
 \alias{animal_8}
 \title{Zonotrichia atricapilla}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

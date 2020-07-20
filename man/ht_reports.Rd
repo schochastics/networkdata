@@ -4,7 +4,9 @@
 \name{ht_reports}
 \alias{ht_reports}
 \title{High-tech Managers (Reports to)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#krackht
 }

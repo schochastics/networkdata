@@ -4,7 +4,9 @@
 \name{f2f_infectious}
 \alias{f2f_infectious}
 \title{Face-2-face contacts at Infectious}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://www.sociopatterns.org/

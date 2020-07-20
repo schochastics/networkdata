@@ -4,7 +4,9 @@
 \name{movie_540}
 \alias{movie_540}
 \title{Pirates of the Caribbean: The Curse of the Black Pearl}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

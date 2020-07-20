@@ -4,7 +4,9 @@
 \name{movie_8}
 \alias{movie_8}
 \title{One Eight Seven}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

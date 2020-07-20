@@ -4,7 +4,9 @@
 \name{shakespeare_28}
 \alias{shakespeare_28}
 \title{Richard III}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

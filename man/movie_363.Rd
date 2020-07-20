@@ -4,7 +4,9 @@
 \name{movie_363}
 \alias{movie_363}
 \title{The Ice Storm}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

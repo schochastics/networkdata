@@ -4,7 +4,9 @@
 \name{animal_22}
 \alias{animal_22}
 \title{Dolphin Proximity (unweighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

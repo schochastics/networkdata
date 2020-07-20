@@ -4,7 +4,9 @@
 \name{animal_1}
 \alias{animal_1}
 \title{Fishstickleback Proximity (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

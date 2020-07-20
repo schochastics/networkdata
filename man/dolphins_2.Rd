@@ -4,7 +4,9 @@
 \name{dolphins_2}
 \alias{dolphins_2}
 \title{Dolphins (II)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#dolphins
 }

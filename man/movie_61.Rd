@@ -4,7 +4,9 @@
 \name{movie_61}
 \alias{movie_61}
 \title{The Apartment}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

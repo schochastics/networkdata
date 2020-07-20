@@ -4,7 +4,9 @@
 \name{movie_476}
 \alias{movie_476}
 \title{Midnight Cowboy}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

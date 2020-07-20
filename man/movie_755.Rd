@@ -4,7 +4,9 @@
 \name{movie_755}
 \alias{movie_755}
 \title{Who Framed Roger Rabbit}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{movie_100}
 \alias{movie_100}
 \title{Big}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{shakespeare_36}
 \alias{shakespeare_36}
 \title{Two Gentlemen of Verona}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

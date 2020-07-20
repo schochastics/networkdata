@@ -4,7 +4,9 @@
 \name{movie_185}
 \alias{movie_185}
 \title{Crime Spree}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

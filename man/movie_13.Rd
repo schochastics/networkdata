@@ -4,7 +4,9 @@
 \name{movie_13}
 \alias{movie_13}
 \title{(500) Days of Summer}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

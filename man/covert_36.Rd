@@ -4,7 +4,9 @@
 \name{covert_36}
 \alias{covert_36}
 \title{Philippine Kidnappings}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks). http://www.tandfonline.com/eprint/cCV3RJihmG3miPFECpV7/full
 }

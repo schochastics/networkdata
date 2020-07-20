@@ -4,7 +4,9 @@
 \name{shakespeare_8}
 \alias{shakespeare_8}
 \title{Cymbeline}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

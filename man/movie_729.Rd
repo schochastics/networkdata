@@ -4,7 +4,9 @@
 \name{movie_729}
 \alias{movie_729}
 \title{Up in the Air}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

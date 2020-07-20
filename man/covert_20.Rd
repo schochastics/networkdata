@@ -4,7 +4,9 @@
 \name{covert_20}
 \alias{covert_20}
 \title{Hamburg Cell 9/11 2001}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks) or here http://doitapps.jjay.cuny.edu/jjatt/data.php
 }

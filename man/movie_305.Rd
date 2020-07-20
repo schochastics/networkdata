@@ -4,7 +4,9 @@
 \name{movie_305}
 \alias{movie_305}
 \title{The Godfather: Part II}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

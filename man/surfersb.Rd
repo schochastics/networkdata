@@ -4,7 +4,9 @@
 \name{surfersb}
 \alias{surfersb}
 \title{Windsurfers (Interactions)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#beach
 }

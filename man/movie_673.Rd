@@ -4,7 +4,9 @@
 \name{movie_673}
 \alias{movie_673}
 \title{Sunshine Cleaning}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

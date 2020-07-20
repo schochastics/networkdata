@@ -4,7 +4,9 @@
 \name{animal_5}
 \alias{animal_5}
 \title{White Leghorn}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

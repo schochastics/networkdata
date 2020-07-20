@@ -4,7 +4,9 @@
 \name{movie_427}
 \alias{movie_427}
 \title{Life as a House}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

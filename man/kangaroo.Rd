@@ -4,7 +4,9 @@
 \name{kangaroo}
 \alias{kangaroo}
 \title{Kangaroo}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#kangaroo
 }

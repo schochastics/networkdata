@@ -4,7 +4,9 @@
 \name{bktecc}
 \alias{bktecc}
 \title{Bernard/Killworth - Tech company (rankings)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#bktec
 }

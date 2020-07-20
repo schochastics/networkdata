@@ -4,7 +4,9 @@
 \name{movie_153}
 \alias{movie_153}
 \title{Catch Me If You Can}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

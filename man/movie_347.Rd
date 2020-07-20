@@ -4,7 +4,9 @@
 \name{movie_347}
 \alias{movie_347}
 \title{Hollow Man}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

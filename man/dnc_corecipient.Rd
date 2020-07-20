@@ -4,7 +4,9 @@
 \name{dnc_corecipient}
 \alias{dnc_corecipient}
 \title{DNC Email (Corecipients)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://www.rene-pickhardt.de/extracting-2-social-network-graphs-from-the-democratic-national-committee-email-corpus-on-wikileaks/

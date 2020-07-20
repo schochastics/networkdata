@@ -4,7 +4,9 @@
 \name{covert_35}
 \alias{covert_35}
 \title{Paul Revere}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Freely available: http://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/
 }

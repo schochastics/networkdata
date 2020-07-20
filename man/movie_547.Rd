@@ -4,7 +4,9 @@
 \name{movie_547}
 \alias{movie_547}
 \title{Il Postino: The Postman}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

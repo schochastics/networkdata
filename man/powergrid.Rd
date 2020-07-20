@@ -4,7 +4,9 @@
 \name{powergrid}
 \alias{powergrid}
 \title{Powergrid}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://toreopsahl.com/datasets/#uspowergrid

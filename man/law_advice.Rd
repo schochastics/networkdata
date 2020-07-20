@@ -4,7 +4,9 @@
 \name{law_advice}
 \alias{law_advice}
 \title{Law Firm (Advice)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#lazega
 }

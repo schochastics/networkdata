@@ -4,7 +4,9 @@
 \name{animal_16}
 \alias{animal_16}
 \title{Baboon Association (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

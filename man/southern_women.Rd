@@ -4,7 +4,9 @@
 \name{southern_women}
 \alias{southern_women}
 \title{Davis - Southern Women}
-\format{(bipartite) igraph object}
+\format{
+(bipartite) igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#davis
 }

@@ -4,7 +4,9 @@
 \name{shakespeare_30}
 \alias{shakespeare_30}
 \title{Taming of the Shrew}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

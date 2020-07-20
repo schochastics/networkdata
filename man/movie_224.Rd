@@ -4,7 +4,9 @@
 \name{movie_224}
 \alias{movie_224}
 \title{Drop Dead Gorgeous}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

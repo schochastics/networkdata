@@ -4,7 +4,9 @@
 \name{movie_375}
 \alias{movie_375}
 \title{Inventing the Abbotts}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

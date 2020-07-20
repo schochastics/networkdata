@@ -4,7 +4,9 @@
 \name{shakespeare_34}
 \alias{shakespeare_34}
 \title{Troilus and Cressida}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

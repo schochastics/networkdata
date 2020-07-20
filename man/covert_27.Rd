@@ -4,7 +4,9 @@
 \name{covert_27}
 \alias{covert_27}
 \title{Linux Terrorists}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks).
 }

@@ -4,7 +4,9 @@
 \name{ucforum}
 \alias{ucforum}
 \title{UC forum (2-mode)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://toreopsahl.com/datasets/#online_forum_network

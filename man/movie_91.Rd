@@ -4,7 +4,9 @@
 \name{movie_91}
 \alias{movie_91}
 \title{The Battle of Shaker Heights}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

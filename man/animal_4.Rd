@@ -4,7 +4,9 @@
 \name{animal_4}
 \alias{animal_4}
 \title{Branta leucopsis}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

@@ -4,7 +4,9 @@
 \name{arenas_meta}
 \alias{arenas_meta}
 \title{Arenas Metabolic}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://deim.urv.cat/~aarenas/data/welcome.htm

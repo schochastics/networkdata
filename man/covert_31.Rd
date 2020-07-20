@@ -4,7 +4,9 @@
 \name{covert_31}
 \alias{covert_31}
 \title{Mali Terrorist Network}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 The dataset has been reconstructed from the following publication: Walther, Olivier J., and Dimitris Christopoulos (2015), "Islamic terrorism and the Malian rebellion." Terrorism and Political Violence, 27 (3), 497-519.
 }

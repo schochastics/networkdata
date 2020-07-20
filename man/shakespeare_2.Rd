@@ -4,7 +4,9 @@
 \name{shakespeare_2}
 \alias{shakespeare_2}
 \title{A Midsummer nights dream}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

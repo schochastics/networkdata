@@ -4,7 +4,9 @@
 \name{ffe_influence}
 \alias{ffe_influence}
 \title{French Financial Elite (influence)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#ffe
 }

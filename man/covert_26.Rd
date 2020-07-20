@@ -4,7 +4,9 @@
 \name{covert_26}
 \alias{covert_26}
 \title{Jemaah Islamiyah Koschade}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Dataset comes from the publication Koschade, Stuart (2006) A Social Network Analysis of Jemaah Islamiyah: The Applications to Counter-Terrorism and Intelligence. Studies in Conflict and Terrorism Vol. 29(6):pp. 559-575
 This data has been reconstructed by Koschade by using the report provided by the international crisis group which collected depositions of JI suspects, court documents, and others Indonesian press reports. (INTERNATIONAL CRISIS GROUP. 2003 ‘Jemaah Islamiyah in South East Asia: Damaged but Still Dangerous’).

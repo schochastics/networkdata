@@ -4,7 +4,9 @@
 \name{shakespeare_31}
 \alias{shakespeare_31}
 \title{The Tempest}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

@@ -4,7 +4,9 @@
 \name{movie_278}
 \alias{movie_278}
 \title{Friday the 13th Part VIII: Jason Takes Manhattan}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

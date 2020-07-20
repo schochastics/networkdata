@@ -4,7 +4,9 @@
 \name{insna}
 \alias{insna}
 \title{INSNA Teacher Student}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#ts
 }

@@ -4,7 +4,9 @@
 \name{movie_602}
 \alias{movie_602}
 \title{Scream}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

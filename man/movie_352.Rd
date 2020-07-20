@@ -4,7 +4,9 @@
 \name{movie_352}
 \alias{movie_352}
 \title{Hot Tub Time Machine}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

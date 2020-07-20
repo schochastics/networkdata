@@ -4,7 +4,9 @@
 \name{movie_499}
 \alias{movie_499}
 \title{My Mother Dreams the Satan's Disciples in New York}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

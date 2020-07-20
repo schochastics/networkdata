@@ -4,7 +4,9 @@
 \name{highschool_boys}
 \alias{highschool_boys}
 \title{Friendships among High School Boys}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#high
 }

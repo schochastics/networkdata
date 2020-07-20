@@ -4,7 +4,9 @@
 \name{sampson}
 \alias{sampson}
 \title{Monastery}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 http://moreno.ss.uci.edu/data#sampson
 }

@@ -4,7 +4,9 @@
 \name{shakespeare_24}
 \alias{shakespeare_24}
 \title{Much Ado about nothing}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

@@ -4,7 +4,9 @@
 \name{f2f_hypertext}
 \alias{f2f_hypertext}
 \title{Face-2-face contacts at Hypertext}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://www.sociopatterns.org/

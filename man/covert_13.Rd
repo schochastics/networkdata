@@ -4,7 +4,9 @@
 \name{covert_13}
 \alias{covert_13}
 \title{Cocaine Dealing Natarajan}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks). Reconstructed from Natarajan, M. "Understanding the structure of a drug trafficking organization: a conversational analysis." Crime Prevention Studies 11 (2000): 273-298.
 }

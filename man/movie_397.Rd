@@ -4,7 +4,9 @@
 \name{movie_397}
 \alias{movie_397}
 \title{The Lost World: Jurassic Park}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

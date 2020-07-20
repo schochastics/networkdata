@@ -4,7 +4,9 @@
 \name{movie_232}
 \alias{movie_232}
 \title{Eight Legged Freaks}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

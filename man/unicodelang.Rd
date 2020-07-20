@@ -4,7 +4,9 @@
 \name{unicodelang}
 \alias{unicodelang}
 \title{Unicodelang}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://www.unicode.org/cldr/charts/25/supplemental/territory_language_information.html

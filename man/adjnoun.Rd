@@ -4,7 +4,9 @@
 \name{adjnoun}
 \alias{adjnoun}
 \title{Words in David Copperfield}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://www-personal.umich.edu/~mejn/netdata/
 }

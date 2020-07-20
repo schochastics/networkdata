@@ -4,7 +4,9 @@
 \name{covert_40}
 \alias{covert_40}
 \title{Saxena Terror India}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks)
 }

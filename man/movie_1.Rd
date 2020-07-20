@@ -4,7 +4,9 @@
 \name{movie_1}
 \alias{movie_1}
 \title{10 Things I Hate About You}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

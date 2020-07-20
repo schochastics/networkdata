@@ -4,7 +4,9 @@
 \name{covert_33}
 \alias{covert_33}
 \title{Ndrangheta Mafia 2}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 The data has been reconstructed by the document "ORDINANZA DI APPLICAZIONE DI MISURA COERCITIVA con mandato di cattura - art. 292 c.p.p. -" which is available online at the following address http://www.stampoantimafioso.it/documentazione-antimafia/ordinanze/.
 Stampo Antimafioso is a project which aims to share information about the Mafia operating in Northem Italy.

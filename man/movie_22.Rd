@@ -4,7 +4,9 @@
 \name{movie_22}
 \alias{movie_22}
 \title{The Adventures of Buckaroo Banzai Across the 8th Dimension}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{brunson_corporate_leadership}
 \alias{brunson_corporate_leadership}
 \title{Brunson Corporate Leadership}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from https://github.com/corybrunson/triadic

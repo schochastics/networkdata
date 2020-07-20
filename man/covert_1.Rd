@@ -4,7 +4,9 @@
 \name{covert_1}
 \alias{covert_1}
 \title{17 November Greece Bombing}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Reconstructed at Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks). Freely available from http://doitapps.jjay.cuny.edu/jjatt/data.php
 }

@@ -4,7 +4,9 @@
 \name{covert_39}
 \alias{covert_39}
 \title{Rhodes Bombing}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks). Reconstructed from Rhodes, C.J. and P. Jones, “Inferring Missing Links in Partially Observed Social Networks”, Journal of the Operational Research Society (2009) 60, 1373-1383
 For more details of attribute data see Rhodes CJ, Keefe EMJ (2007). Social network topology: A Bayesian approach. J Opl Res Soc 58(12): 1605–1611.

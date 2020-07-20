@@ -4,7 +4,9 @@
 \name{movie_277}
 \alias{movie_277}
 \title{Friday the 13th}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

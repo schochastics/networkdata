@@ -4,7 +4,9 @@
 \name{movie_477}
 \alias{movie_477}
 \title{Mighty Morphin Power Rangers: The Movie}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

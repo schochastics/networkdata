@@ -4,7 +4,9 @@
 \name{movie_726}
 \alias{movie_726}
 \title{U Turn}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

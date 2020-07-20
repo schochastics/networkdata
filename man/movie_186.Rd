@@ -4,7 +4,9 @@
 \name{movie_186}
 \alias{movie_186}
 \title{Crouching Tiger, Hidden Dragon}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

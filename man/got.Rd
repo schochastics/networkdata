@@ -4,7 +4,9 @@
 \name{got}
 \alias{got}
 \title{Game of Thrones Interactions}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https://networkofthrones.wordpress.com, Downloaded from https://github.com/mathbeveridge/gameofthrones/
 }

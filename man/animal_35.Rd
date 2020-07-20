@@ -4,7 +4,9 @@
 \name{animal_35}
 \alias{animal_35}
 \title{Desert Tortoise Asynchronous Burrow Sharing (unweighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

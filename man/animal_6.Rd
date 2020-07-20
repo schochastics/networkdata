@@ -4,7 +4,9 @@
 \name{animal_6}
 \alias{animal_6}
 \title{Haemorhous mexicanus}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

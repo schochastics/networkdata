@@ -4,7 +4,9 @@
 \name{movie_592}
 \alias{movie_592}
 \title{Rush Hour}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{maayan_pdzbase}
 \alias{maayan_pdzbase}
 \title{Maayan Pdzbase}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://research.mssm.edu/maayan/datasets/qualitative_networks.shtml

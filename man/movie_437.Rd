@@ -4,7 +4,9 @@
 \name{movie_437}
 \alias{movie_437}
 \title{The Long Kiss Goodnight}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

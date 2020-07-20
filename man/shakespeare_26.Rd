@@ -4,7 +4,9 @@
 \name{shakespeare_26}
 \alias{shakespeare_26}
 \title{Pericles}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

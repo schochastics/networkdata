@@ -4,7 +4,9 @@
 \name{covert_2}
 \alias{covert_2}
 \title{9/11 Hijackers}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Reconstructed at Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks).
 

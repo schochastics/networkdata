@@ -4,7 +4,9 @@
 \name{shakespeare_23}
 \alias{shakespeare_23}
 \title{Merry Wives of Windsor}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

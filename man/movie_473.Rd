@@ -4,7 +4,9 @@
 \name{movie_473}
 \alias{movie_473}
 \title{The Men Who Stare at Goats}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

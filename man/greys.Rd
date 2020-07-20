@@ -4,7 +4,9 @@
 \name{greys}
 \alias{greys}
 \title{Grey's Anatomy Hook-ups}
-\format{igraph object}
+\format{
+igraph object
+}
 \usage{
 greys
 }

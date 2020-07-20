@@ -4,7 +4,9 @@
 \name{movie_705}
 \alias{movie_705}
 \title{To Sleep with Anger}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

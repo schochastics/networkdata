@@ -4,7 +4,9 @@
 \name{movie_466}
 \alias{movie_466}
 \title{The Matrix Reloaded}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

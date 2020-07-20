@@ -4,7 +4,9 @@
 \name{movie_554}
 \alias{movie_554}
 \title{The Jack Benny Program}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

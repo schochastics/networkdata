@@ -4,7 +4,9 @@
 \name{movie_368}
 \alias{movie_368}
 \title{Indiana Jones and the Temple of Doom}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

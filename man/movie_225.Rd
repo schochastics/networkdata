@@ -4,7 +4,9 @@
 \name{movie_225}
 \alias{movie_225}
 \title{A Dry White Season}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{animal_3}
 \alias{animal_3}
 \title{Hirundo rustica}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

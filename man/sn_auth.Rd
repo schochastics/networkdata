@@ -4,7 +4,9 @@
 \name{sn_auth}
 \alias{sn_auth}
 \title{Social Networks Coauthors}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#auth
 }

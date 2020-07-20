@@ -4,7 +4,9 @@
 \name{movie_193}
 \alias{movie_193}
 \title{The Curious Case of Benjamin Button}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

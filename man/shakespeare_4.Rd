@@ -4,7 +4,9 @@
 \name{shakespeare_4}
 \alias{shakespeare_4}
 \title{Alls well that ends well}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

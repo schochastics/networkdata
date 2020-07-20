@@ -4,7 +4,9 @@
 \name{covert_21}
 \alias{covert_21}
 \title{Heroin Dealing Natarajan}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks). Reconstructed from Natarajan, M. (2006). Understanding the Structure of a Large Heroin Distribution Network: A Quantitative Analysis of Qualitative Data. Quantitative Journal of Criminology, 22(2), 171-192.
 }

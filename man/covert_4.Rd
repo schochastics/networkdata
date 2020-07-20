@@ -4,7 +4,9 @@
 \name{covert_4}
 \alias{covert_4}
 \title{Australian Embassy Bombing, Indonesia 2004}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks) or http://doitapps.jjay.cuny.edu/jjatt/data.php
 }

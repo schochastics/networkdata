@@ -4,7 +4,9 @@
 \name{covert_16}
 \alias{covert_16}
 \title{Domestic Terrorist Web Links}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks)
 }

@@ -4,7 +4,9 @@
 \name{movie_455}
 \alias{movie_455}
 \title{Man on the Moon}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

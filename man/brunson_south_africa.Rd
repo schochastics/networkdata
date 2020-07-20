@@ -4,7 +4,9 @@
 \name{brunson_south_africa}
 \alias{brunson_south_africa}
 \title{Brunson South Africa}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from https://github.com/corybrunson/triadic

@@ -4,7 +4,9 @@
 \name{flo_business}
 \alias{flo_business}
 \title{Florentine Families (Business)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#padgett
 }

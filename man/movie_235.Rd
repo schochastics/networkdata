@@ -4,7 +4,9 @@
 \name{movie_235}
 \alias{movie_235}
 \title{Elizabeth: The Golden Age}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

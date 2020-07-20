@@ -4,7 +4,9 @@
 \name{movie_259}
 \alias{movie_259}
 \title{Babette's Feast}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

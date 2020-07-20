@@ -4,7 +4,9 @@
 \name{movie_148}
 \alias{movie_148}
 \title{The Butterfly Effect}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{covert_29}
 \alias{covert_29}
 \title{Madoff Fraud}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Freely available, to be reconstructed by Manchester http://orgnet.com/Madoff9.png
 }

@@ -4,7 +4,9 @@
 \name{covert_11}
 \alias{covert_11}
 \title{Christmas Eve Bombings Indonesia 2000}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks) or here http://doitapps.jjay.cuny.edu/jjatt/data.php
 }

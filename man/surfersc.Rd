@@ -4,7 +4,9 @@
 \name{surfersc}
 \alias{surfersc}
 \title{Windsurfers (Closeness)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#beach
 }

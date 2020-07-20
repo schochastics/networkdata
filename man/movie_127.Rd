@@ -4,7 +4,9 @@
 \name{movie_127}
 \alias{movie_127}
 \title{The Boondock Saints II: All Saints Day}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{movie_255}
 \alias{movie_255}
 \title{Fargo}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

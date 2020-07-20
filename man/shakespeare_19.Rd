@@ -4,7 +4,9 @@
 \name{shakespeare_19}
 \alias{shakespeare_19}
 \title{Loves Labours Lost}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

@@ -4,7 +4,9 @@
 \name{crime}
 \alias{crime}
 \title{St. Louis Crimes}
-\format{(bipartite) igraph object}
+\format{
+(bipartite) igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#crime
 }

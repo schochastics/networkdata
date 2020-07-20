@@ -4,7 +4,9 @@
 \name{movie_591}
 \alias{movie_591}
 \title{Runaway Bride}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

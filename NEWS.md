@@ -1,3 +1,8 @@
+# networkdata 0.1.4
+
+* fixed list issue in `animal_34`
+* fixed genders in `crime` (#5)
+
 # networkdata 0.1.3
 
 * fixed name mapping in florentine families dataset.

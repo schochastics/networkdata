@@ -4,7 +4,9 @@
 \name{bott}
 \alias{bott}
 \title{Preschool}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#bott
 }

@@ -4,7 +4,9 @@
 \name{movie_447}
 \alias{movie_447}
 \title{Love & Basketball}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{animal_25}
 \alias{animal_25}
 \title{Kangeroos Proximity (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

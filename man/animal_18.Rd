@@ -4,7 +4,9 @@
 \name{animal_18}
 \alias{animal_18}
 \title{Bats Roostuse (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

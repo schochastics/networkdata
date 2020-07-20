@@ -4,7 +4,9 @@
 \name{covert_15}
 \alias{covert_15}
 \title{Czech Corruption}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data from Tomas Diviák, Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks).
 }

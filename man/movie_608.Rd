@@ -4,7 +4,9 @@
 \name{movie_608}
 \alias{movie_608}
 \title{Sense and Sensibility}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{movie_149}
 \alias{movie_149}
 \title{The Cable Guy}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

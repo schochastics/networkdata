@@ -4,7 +4,9 @@
 \name{ht_advice}
 \alias{ht_advice}
 \title{High-tech Managers (Advice)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#krackht
 }

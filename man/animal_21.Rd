@@ -4,7 +4,9 @@
 \name{animal_21}
 \alias{animal_21}
 \title{Dolphin Association (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

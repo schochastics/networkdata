@@ -4,7 +4,9 @@
 \name{movie_106}
 \alias{movie_106}
 \title{Birthday Girl}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

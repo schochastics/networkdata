@@ -4,7 +4,9 @@
 \name{movie_356}
 \alias{movie_356}
 \title{The Hudsucker Proxy}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

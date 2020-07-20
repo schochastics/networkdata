@@ -4,7 +4,9 @@
 \name{movie_445}
 \alias{movie_445}
 \title{Lost in Space}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

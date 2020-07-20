@@ -4,7 +4,9 @@
 \name{animal_27}
 \alias{animal_27}
 \title{Primates Association (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

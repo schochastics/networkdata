@@ -4,7 +4,9 @@
 \name{movie_695}
 \alias{movie_695}
 \title{Kings of the Turf}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

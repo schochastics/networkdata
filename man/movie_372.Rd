@@ -4,7 +4,9 @@
 \name{movie_372}
 \alias{movie_372}
 \title{Interview with the Vampire: The Vampire Chronicles}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

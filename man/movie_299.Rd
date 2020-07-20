@@ -4,7 +4,9 @@
 \name{movie_299}
 \alias{movie_299}
 \title{Ghostbusters}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{movie_516}
 \alias{movie_516}
 \title{Observe and Report}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

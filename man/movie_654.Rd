@@ -4,7 +4,9 @@
 \name{movie_654}
 \alias{movie_654}
 \title{Star Trek: Insurrection}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

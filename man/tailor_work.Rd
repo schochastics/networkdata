@@ -4,7 +4,9 @@
 \name{tailor_work}
 \alias{tailor_work}
 \title{Kapferer - Tailor-Shop (work)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#kaptail
 }

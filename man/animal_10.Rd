@@ -4,7 +4,9 @@
 \name{animal_10}
 \alias{animal_10}
 \title{Philetairus socius}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

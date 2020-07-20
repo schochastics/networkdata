@@ -4,7 +4,9 @@
 \name{movie_509}
 \alias{movie_509}
 \title{Freddy's Dead: The Final Nightmare}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

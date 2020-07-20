@@ -4,7 +4,9 @@
 \name{covert_8}
 \alias{covert_8}
 \title{Baseball Steroid Use}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Freely available http://orgnet.com/steroids.html and reconstructed by Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks)
 }

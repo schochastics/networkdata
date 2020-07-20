@@ -4,7 +4,9 @@
 \name{movie_279}
 \alias{movie_279}
 \title{From Dusk Till Dawn}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

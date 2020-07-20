@@ -4,7 +4,9 @@
 \name{ants_2}
 \alias{ants_2}
 \title{Ant Colony (II)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#ants
 }

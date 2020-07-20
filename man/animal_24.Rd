@@ -4,7 +4,9 @@
 \name{animal_24}
 \alias{animal_24}
 \title{Hyenas Groupmembership (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

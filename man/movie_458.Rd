@@ -4,7 +4,9 @@
 \name{movie_458}
 \alias{movie_458}
 \title{The Man Who Wasn't There}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

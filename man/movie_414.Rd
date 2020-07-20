@@ -4,7 +4,9 @@
 \name{movie_414}
 \alias{movie_414}
 \title{Land of the Dead}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

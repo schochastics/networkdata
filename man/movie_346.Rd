@@ -4,7 +4,9 @@
 \name{movie_346}
 \alias{movie_346}
 \title{The Hitchhiker's Guide to the Galaxy}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

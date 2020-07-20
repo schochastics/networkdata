@@ -4,7 +4,9 @@
 \name{bkfrab}
 \alias{bkfrab}
 \title{Bernard/Killworth - Fraternity (interaction)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#bkfrat
 }

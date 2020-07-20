@@ -4,7 +4,9 @@
 \name{movie_590}
 \alias{movie_590}
 \title{The Ruins}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

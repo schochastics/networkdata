@@ -4,7 +4,9 @@
 \name{usa_borders}
 \alias{usa_borders}
 \title{USA Bordering States}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://www-cs-faculty.stanford.edu/~uno/sgb.html

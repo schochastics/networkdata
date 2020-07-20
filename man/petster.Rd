@@ -4,7 +4,9 @@
 \name{petster}
 \alias{petster}
 \title{Petster Friendships}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 }

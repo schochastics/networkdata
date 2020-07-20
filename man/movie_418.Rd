@@ -4,7 +4,9 @@
 \name{movie_418}
 \alias{movie_418}
 \title{The Last of the Mohicans}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

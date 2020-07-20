@@ -4,7 +4,9 @@
 \name{covert_9}
 \alias{covert_9}
 \title{Big Allied and Dangerous (BAAD)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Freely available from http://www.albany.edu/pvc/data.shtml and from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks)
 }

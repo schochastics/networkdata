@@ -4,7 +4,9 @@
 \name{movie_64}
 \alias{movie_64}
 \title{Army of Darkness}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

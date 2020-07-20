@@ -4,7 +4,9 @@
 \name{movie_491}
 \alias{movie_491}
 \title{Mr. Deeds Goes to Town}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

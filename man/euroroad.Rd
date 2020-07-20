@@ -4,7 +4,9 @@
 \name{euroroad}
 \alias{euroroad}
 \title{Road network Europe}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data downloaded from http://konect.uni-koblenz.de/
 orginaly from http://lovro.lpt.fri.uni-lj.si/support.jsp

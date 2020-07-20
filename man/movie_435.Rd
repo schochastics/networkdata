@@ -4,7 +4,9 @@
 \name{movie_435}
 \alias{movie_435}
 \title{Logan's Run}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

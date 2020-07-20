@@ -4,7 +4,9 @@
 \name{movie_457}
 \alias{movie_457}
 \title{The Man Who Knew Too Much}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

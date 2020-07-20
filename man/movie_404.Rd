@@ -4,7 +4,9 @@
 \name{movie_404}
 \alias{movie_404}
 \title{The King of Comedy}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

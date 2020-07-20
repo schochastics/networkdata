@@ -4,7 +4,9 @@
 \name{movie_402}
 \alias{movie_402}
 \title{Killing Zoe}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

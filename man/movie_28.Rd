@@ -4,7 +4,9 @@
 \name{movie_28}
 \alias{movie_28}
 \title{Airplane II: The Sequel}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

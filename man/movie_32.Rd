@@ -4,7 +4,9 @@
 \name{movie_32}
 \alias{movie_32}
 \title{AVP: Alien vs. Predator}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

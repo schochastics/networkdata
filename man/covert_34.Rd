@@ -4,7 +4,9 @@
 \name{covert_34}
 \alias{covert_34}
 \title{Noordin Top}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Data is available in its original format from Manchester  (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks).
 }

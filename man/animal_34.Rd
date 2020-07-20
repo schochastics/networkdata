@@ -4,7 +4,9 @@
 \name{animal_34}
 \alias{animal_34}
 \title{Zebra Groupmembership (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

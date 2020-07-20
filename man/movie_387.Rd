@@ -4,7 +4,9 @@
 \name{movie_387}
 \alias{movie_387}
 \title{Jay and Silent Bob Strike Back}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

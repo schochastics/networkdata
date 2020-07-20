@@ -4,7 +4,9 @@
 \name{covert_44}
 \alias{covert_44}
 \title{Suffragettes}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks). http://eprints.ncrm.ac.uk/842/1/Social_Network_analysis_Edwards.pdf
 }

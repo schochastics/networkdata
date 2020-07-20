@@ -4,7 +4,9 @@
 \name{animal_9}
 \alias{animal_9}
 \title{Acanthiza}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

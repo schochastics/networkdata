@@ -4,7 +4,9 @@
 \name{covert_25}
 \alias{covert_25}
 \title{Jakarta Bombing 2009 / Noordin Top}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks) or here http://doitapps.jjay.cuny.edu/jjatt/data.php
 }

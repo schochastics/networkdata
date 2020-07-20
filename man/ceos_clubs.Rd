@@ -4,7 +4,9 @@
 \name{ceos_clubs}
 \alias{ceos_clubs}
 \title{Ceo's and Clubs}
-\format{(bipartite) igraph object}
+\format{
+(bipartite) igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#galas
 }

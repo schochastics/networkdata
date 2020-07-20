@@ -4,7 +4,9 @@
 \name{movie_256}
 \alias{movie_256}
 \title{Fast Times at Ridgemont High}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

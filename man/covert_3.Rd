@@ -4,7 +4,9 @@
 \name{covert_3}
 \alias{covert_3}
 \title{Al Qaeda 1993-2003}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks) or http://doitapps.jjay.cuny.edu/jjatt/data.php
 }

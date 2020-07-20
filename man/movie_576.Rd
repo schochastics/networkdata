@@ -4,7 +4,9 @@
 \name{movie_576}
 \alias{movie_576}
 \title{Reservoir Dogs}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

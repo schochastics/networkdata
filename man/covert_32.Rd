@@ -4,7 +4,9 @@
 \name{covert_32}
 \alias{covert_32}
 \title{Montreal Street Gangs}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 The data has been reconstructed from the following article: Karine Descormiers and Carlo Morselli (2011) 'Alliances, Conflicts, and Contradictions in Montreal's Street Gang Landscape' International Criminal Justice Review, Vol. 1 No. 3, pp. 297-314
 }

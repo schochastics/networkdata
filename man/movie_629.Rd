@@ -4,7 +4,9 @@
 \name{movie_629}
 \alias{movie_629}
 \title{Sister Act}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

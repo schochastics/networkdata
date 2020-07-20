@@ -4,7 +4,9 @@
 \name{animal_26}
 \alias{animal_26}
 \title{Possum Burrowsharing (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

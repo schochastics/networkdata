@@ -4,7 +4,9 @@
 \name{covert_47}
 \alias{covert_47}
 \title{Togo}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks), reconstructed from Morselli’s book, Inside Criminal Networks http://www.springer.com/social+sciences/criminology/book/978-0-387-09525-7 book page 187, Appendix
 }

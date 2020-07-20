@@ -4,7 +4,9 @@
 \name{covert_18}
 \alias{covert_18}
 \title{FIFA}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks). Reconstructed by Gemma Edwards from Select Committee 2006 activity report.
 }

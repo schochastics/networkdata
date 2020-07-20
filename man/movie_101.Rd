@@ -4,7 +4,9 @@
 \name{movie_101}
 \alias{movie_101}
 \title{Bear in the Big Blue House}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

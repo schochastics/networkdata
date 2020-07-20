@@ -4,7 +4,9 @@
 \name{covert_46}
 \alias{covert_46}
 \title{Kenya Tanzania Gerdes}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Available from Center for Computational Analysis of Social and Organizational Systems (CASOS). (2008). Tanzania-Kenya-imoon.xml. Data available online: http://www.casos.cs.cmu.edu/ computational_tools/datasets/internal/tanzania_ kenya/index11.php.
 Also Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks).

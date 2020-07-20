@@ -4,7 +4,9 @@
 \name{movie_94}
 \alias{movie_94}
 \title{Beavis and Butt-Head Do America}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

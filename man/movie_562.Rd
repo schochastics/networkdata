@@ -4,7 +4,9 @@
 \name{movie_562}
 \alias{movie_562}
 \title{Queen of the Damned}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

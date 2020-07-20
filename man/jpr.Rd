@@ -4,7 +4,9 @@
 \name{jpr}
 \alias{jpr}
 \title{Joint Senate Press Releases}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#jpr
 }

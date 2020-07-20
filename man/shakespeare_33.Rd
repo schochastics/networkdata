@@ -4,7 +4,9 @@
 \name{shakespeare_33}
 \alias{shakespeare_33}
 \title{Titus Andronicus}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

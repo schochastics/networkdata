@@ -4,7 +4,9 @@
 \name{movie_411}
 \alias{movie_411}
 \title{L.A. Confidential}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

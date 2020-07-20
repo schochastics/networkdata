@@ -4,7 +4,9 @@
 \name{movie_237}
 \alias{movie_237}
 \title{The English Patient}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

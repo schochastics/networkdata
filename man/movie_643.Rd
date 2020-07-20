@@ -4,7 +4,9 @@
 \name{movie_643}
 \alias{movie_643}
 \title{Something's Gotta Give}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

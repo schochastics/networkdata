@@ -4,7 +4,9 @@
 \name{movie_114}
 \alias{movie_114}
 \title{Blast from the Past}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

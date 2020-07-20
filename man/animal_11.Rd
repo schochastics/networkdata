@@ -4,7 +4,9 @@
 \name{animal_11}
 \alias{animal_11}
 \title{Wild birds}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

@@ -4,7 +4,9 @@
 \name{shakespeare_32}
 \alias{shakespeare_32}
 \title{Timon of Athens}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

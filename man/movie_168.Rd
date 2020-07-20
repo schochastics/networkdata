@@ -4,7 +4,9 @@
 \name{movie_168}
 \alias{movie_168}
 \title{City of Joy}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

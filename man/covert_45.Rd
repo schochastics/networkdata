@@ -4,7 +4,9 @@
 \name{covert_45}
 \alias{covert_45}
 \title{Swingers}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Data from Anne-Marie Niekamp. Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks).
 }

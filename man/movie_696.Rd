@@ -4,7 +4,9 @@
 \name{movie_696}
 \alias{movie_696}
 \title{3 Men and a Baby}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

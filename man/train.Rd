@@ -4,7 +4,9 @@
 \name{train}
 \alias{train}
 \title{Madrid Train Bombing}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#train
 }

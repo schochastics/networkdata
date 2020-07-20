@@ -4,7 +4,9 @@
 \name{animal_32}
 \alias{animal_32}
 \title{Spidermonkeys Contact (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

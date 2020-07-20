@@ -4,7 +4,9 @@
 \name{hall}
 \alias{hall}
 \title{Residence Hall Friendship}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data#oz
 }

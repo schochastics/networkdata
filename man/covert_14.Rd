@@ -4,7 +4,9 @@
 \name{covert_14}
 \alias{covert_14}
 \title{Cocaine Smuggling}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available at Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks). Reconstructed from Jimenez-Salinas Framis, A. "Illegal networks or criminal
 organizations: Power, roles and facilitators in four cocaine trafficking

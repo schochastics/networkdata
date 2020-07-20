@@ -4,7 +4,9 @@
 \name{shakespeare_1}
 \alias{shakespeare_1}
 \title{A Comedy of Errors}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

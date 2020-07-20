@@ -4,7 +4,9 @@
 \name{movie_657}
 \alias{movie_657}
 \title{Star Wars: Episode II - Attack of the Clones}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

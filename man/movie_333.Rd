@@ -4,7 +4,9 @@
 \name{movie_333}
 \alias{movie_333}
 \title{The Hebrew Hammer}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{movie_169}
 \alias{movie_169}
 \title{Clash of the Titans}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

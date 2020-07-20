@@ -4,7 +4,9 @@
 \name{fraternity}
 \alias{fraternity}
 \title{Newcomb Fraternity}
-\format{list of 15 igraph objects}
+\format{
+list of 15 igraph objects
+}
 \source{
 http://moreno.ss.uci.edu/data#newfrat
 }

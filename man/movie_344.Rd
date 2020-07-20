@@ -4,7 +4,9 @@
 \name{movie_344}
 \alias{movie_344}
 \title{Highlander: Endgame}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

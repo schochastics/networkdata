@@ -4,7 +4,9 @@
 \name{movie_488}
 \alias{movie_488}
 \title{Moonstruck}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

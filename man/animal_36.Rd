@@ -4,7 +4,9 @@
 \name{animal_36}
 \alias{animal_36}
 \title{Lizard Proximity (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

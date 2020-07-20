@@ -4,7 +4,9 @@
 \name{eies_relations}
 \alias{eies_relations}
 \title{EIES (relations)}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 http://moreno.ss.uci.edu/data.html#eies
 }

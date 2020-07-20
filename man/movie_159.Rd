@@ -4,7 +4,9 @@
 \name{movie_159}
 \alias{movie_159}
 \title{Charlie's Angels: Full Throttle}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

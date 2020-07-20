@@ -4,7 +4,9 @@
 \name{animal_19}
 \alias{animal_19}
 \title{Bison Dominance (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

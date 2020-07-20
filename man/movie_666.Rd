@@ -4,7 +4,9 @@
 \name{movie_666}
 \alias{movie_666}
 \title{Stir of Echoes}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

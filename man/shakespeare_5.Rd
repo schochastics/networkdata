@@ -4,7 +4,9 @@
 \name{shakespeare_5}
 \alias{shakespeare_5}
 \title{Antony and Cleopatra}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Raw data downloaded from https://github.com/mallaham/Shakespeare-Plays
 }

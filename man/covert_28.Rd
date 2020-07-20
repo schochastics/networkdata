@@ -4,7 +4,9 @@
 \name{covert_28}
 \alias{covert_28}
 \title{London Gang}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks).
 }

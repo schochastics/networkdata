@@ -4,7 +4,9 @@
 \name{movie_369}
 \alias{movie_369}
 \title{Raiders of the Lost Ark}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

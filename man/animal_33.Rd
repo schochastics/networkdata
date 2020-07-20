@@ -4,7 +4,9 @@
 \name{animal_33}
 \alias{animal_33}
 \title{Voles Social Projection Bipartite (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

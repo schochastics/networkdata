@@ -4,7 +4,9 @@
 \name{movie_3}
 \alias{movie_3}
 \title{Twelve and Holding}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

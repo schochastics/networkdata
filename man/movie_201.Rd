@@ -4,7 +4,9 @@
 \name{movie_201}
 \alias{movie_201}
 \title{The Day the Earth Stood Still}
-\format{igraph object}
+\format{
+igraph object
+}
 \source{
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
 

@@ -4,7 +4,9 @@
 \name{covert_43}
 \alias{covert_43}
 \title{Southeast Asian Aggregated Attacks 2005}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 Available from Manchester (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks) or here http://doitapps.jjay.cuny.edu/jjatt/data.php
 }

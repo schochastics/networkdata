@@ -4,7 +4,9 @@
 \name{animal_2}
 \alias{animal_2}
 \title{Guppy Proximity Frequency (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }

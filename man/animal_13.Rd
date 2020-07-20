@@ -4,7 +4,9 @@
 \name{animal_13}
 \alias{animal_13}
 \title{Ants Trophallaxis (weighted)}
-\format{list of igraph objects}
+\format{
+list of igraph objects
+}
 \source{
 https: //bansallab.github.io/asnr/
 }
