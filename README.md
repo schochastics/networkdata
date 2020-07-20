@@ -8,7 +8,7 @@
 [![CRAN
 status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
 [![drat
-status](https://img.shields.io/badge/drat-0.1.3-red.svg)](https://github.com/schochastics/drat)
+status](https://img.shields.io/badge/drat-0.1.4-red.svg)](https://github.com/schochastics/drat)
 [![drat
 status](https://img.shields.io/badge/networks-2135-green.svg)](https://github.com/schochastics/networkdata)
 [![Lifecycle:
@@ -65,7 +65,7 @@ The developer version can be installed with:
 remotes::install_github("schochastics/networkdata")
 ```
 
-The required space for the package is ~22MB, given that it includes a
+The required space for the package is \~22MB, given that it includes a
 lot of data.
 
 ## Notes

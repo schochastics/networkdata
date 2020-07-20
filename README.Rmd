@@ -19,7 +19,7 @@ nets <- sum(networkdata:::net_attrs$no_of_networks)
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
-[![drat status](https://img.shields.io/badge/drat-0.1.3-red.svg)](https://github.com/schochastics/drat)
+[![drat status](https://img.shields.io/badge/drat-0.1.4-red.svg)](https://github.com/schochastics/drat)
 [![drat status](https://img.shields.io/badge/networks-2135-green.svg)](https://github.com/schochastics/networkdata)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
