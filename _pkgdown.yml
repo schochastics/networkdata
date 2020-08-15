@@ -1,6 +1,17 @@
+title: networkdata
 destination: ../pkgdown_sites/networkdata
 
+home:
+  title: Network Datasets for R
+  description: A great variety of network datasets in igraph format
 template:
+  opengraph:
+    image:
+      src: man/figures/logo.png
+      alt: "networkdata - Network Datasets for R"
+    twitter:
+      creator: "@schochastics"
+      card: summary_large_image
   params:
     bootswatch: simplex
 
