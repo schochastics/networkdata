@@ -79,3 +79,10 @@
 #' @seealso [atp]
 #' @source Networks constructed from data that was gathered and compiled by Jeff Sackmann (https://github.com/JeffSackmann). Please give credit to him if you use this data.
 "wta"
+
+
+#' Star Wars Episode 1-7
+#' @description Scene Co-occurrence of Star Wars Characters (Episode 1-7)
+#' @source Data downloaded from https://github.com/evelinag/StarWars-social-network
+#' @format list of igraph objects
+"starwars"

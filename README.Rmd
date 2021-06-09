@@ -19,7 +19,7 @@ nets <- sum(networkdata:::net_attrs$no_of_networks)
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
-[![drat status](https://img.shields.io/badge/drat-0.1.4-red.svg)](https://github.com/schochastics/drat)
+[![drat status](https://img.shields.io/badge/drat-0.1.5-red.svg)](https://github.com/schochastics/drat)
 [![drat status](https://img.shields.io/badge/networks-2135-green.svg)](https://github.com/schochastics/networkdata)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
@@ -33,6 +33,7 @@ The package contains a large variety of different network datasets (all in `igra
 - Shakespeare's plays networks build with data from https://github.com/mallaham/Shakespeare-Plays
 - Some networks from http://konect.uni-koblenz.de/
 - Tennis networks compiled from https://github.com/JeffSackmann (please give credit to him if you use this data) 
+- Star Wars Character Interactions (Episode 1-7) from https://github.com/evelinag/StarWars-social-network
 
 The package includes `r length(list.files("data"))` datasets containing `r nets` networks. 
 
@@ -41,7 +42,7 @@ A list of all datasets can be obtained with
 data(package = "networkdata")
 ```
 
-Alternatively, use the function `show_networks()` to get a list of datasets with desired properties.
+~~Alternatively, use the function `show_networks()` to get a list of datasets with desired properties.~~ removed
 
 **Feel free to add your own dataset via a pull request**
 

@@ -1,3 +1,8 @@
+# networkdata 0.1.5
+
+* added starwars networks
+* removed `show_networks()`
+
 # networkdata 0.1.4
 
 * fixed list issue in `animal_34`

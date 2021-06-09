@@ -9,7 +9,6 @@
 #'
 #' # all directed networks
 #' show_networks(type = "directed")
-#' @export
 
 show_networks <- function(type="all"){
   type <- match.arg(type,c("all","two-mode","one-mode","undirected","directed","weighted","unweighted","collection","vattr"))

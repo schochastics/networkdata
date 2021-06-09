@@ -8,7 +8,7 @@
 [![CRAN
 status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
 [![drat
-status](https://img.shields.io/badge/drat-0.1.4-red.svg)](https://github.com/schochastics/drat)
+status](https://img.shields.io/badge/drat-0.1.5-red.svg)](https://github.com/schochastics/drat)
 [![drat
 status](https://img.shields.io/badge/networks-2135-green.svg)](https://github.com/schochastics/networkdata)
 [![Lifecycle:
@@ -19,19 +19,21 @@ The package contains a large variety of different network datasets (all
 in `igraph` format). So far, it includes datsets from the following
 repositories:
 
-  - Freeman’s datasets from <http://moreno.ss.uci.edu/data>
-  - Movie networks from
+-   Freeman’s datasets from <http://moreno.ss.uci.edu/data>
+-   Movie networks from
     <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3>
-  - Covert networks from
+-   Covert networks from
     <https://sites.google.com/site/ucinetsoftware/datasets/covert-networks>
-  - Animal networks from <https://bansallab.github.io/asnr/>
-  - Shakespeare’s plays networks build with data from
+-   Animal networks from <https://bansallab.github.io/asnr/>
+-   Shakespeare’s plays networks build with data from
     <https://github.com/mallaham/Shakespeare-Plays>
-  - Some networks from <http://konect.uni-koblenz.de/>
-  - Tennis networks compiled from <https://github.com/JeffSackmann>
+-   Some networks from <http://konect.uni-koblenz.de/>
+-   Tennis networks compiled from <https://github.com/JeffSackmann>
     (please give credit to him if you use this data)
+-   Star Wars Character Interactions (Episode 1-7) from
+    <https://github.com/evelinag/StarWars-social-network>
 
-The package includes 979 datasets containing 2135 networks.
+The package includes 980 datasets containing 2135 networks.
 
 A list of all datasets can be obtained with
 
@@ -39,8 +41,8 @@ A list of all datasets can be obtained with
 data(package = "networkdata")
 ```
 
-Alternatively, use the function `show_networks()` to get a list of
-datasets with desired properties.
+~~Alternatively, use the function `show_networks()` to get a list of
+datasets with desired properties.~~ removed
 
 **Feel free to add your own dataset via a pull request**
 
@@ -70,8 +72,8 @@ lot of data.
 
 ## Notes
 
-  - Please report any missing sources/references for datasets.
-  - Many datasets were automatically assembled and may thus contain
+-   Please report any missing sources/references for datasets.
+-   Many datasets were automatically assembled and may thus contain
     errors (not all were manually checked). If you spot any, please
     report them. Check the original sources for any inconsistencies if
     you want to use the data in an academic paper.
