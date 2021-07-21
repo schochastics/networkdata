@@ -1,3 +1,7 @@
+#networkdata 0.1.6
+
+fixed error in `southern_women`
+
 # networkdata 0.1.5
 
 * added starwars networks
