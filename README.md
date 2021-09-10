@@ -8,11 +8,9 @@
 [![CRAN
 status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
 [![drat
-status](https://img.shields.io/badge/drat-0.1.5-red.svg)](https://github.com/schochastics/drat)
+status](https://img.shields.io/badge/drat-0.1.6-red.svg)](https://github.com/schochastics/drat)
 [![drat
-status](https://img.shields.io/badge/networks-2135-green.svg)](https://github.com/schochastics/networkdata)
-[![Lifecycle:
-experimental](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+status](https://img.shields.io/badge/networks-2142-green.svg)](https://github.com/schochastics/networkdata)
 <!-- badges: end -->
 
 The package contains a large variety of different network datasets (all
@@ -33,7 +31,7 @@ repositories:
 -   Star Wars Character Interactions (Episode 1-7) from
     <https://github.com/evelinag/StarWars-social-network>
 
-The package includes 980 datasets containing 2135 networks.
+The package includes 980 datasets containing 2142 networks.
 
 A list of all datasets can be obtained with
 

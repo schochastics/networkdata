@@ -11,17 +11,14 @@ knitr::opts_chunk$set(
   fig.path = "man/figures/README-",
   out.width = "100%"
 )
-nets <- sum(networkdata:::net_attrs$no_of_networks)
-
 ```
 
 # networkdata <img src="man/figures/logo.png" align="right"/>
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
-[![drat status](https://img.shields.io/badge/drat-0.1.5-red.svg)](https://github.com/schochastics/drat)
-[![drat status](https://img.shields.io/badge/networks-2135-green.svg)](https://github.com/schochastics/networkdata)
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![drat status](https://img.shields.io/badge/drat-0.1.6-red.svg)](https://github.com/schochastics/drat)
+[![drat status](https://img.shields.io/badge/networks-2142-green.svg)](https://github.com/schochastics/networkdata)
 <!-- badges: end -->
 
 The package contains a large variety of different network datasets (all in `igraph` format). So far, it includes datsets from the following repositories: 
@@ -35,7 +32,7 @@ The package contains a large variety of different network datasets (all in `igra
 - Tennis networks compiled from https://github.com/JeffSackmann (please give credit to him if you use this data) 
 - Star Wars Character Interactions (Episode 1-7) from https://github.com/evelinag/StarWars-social-network
 
-The package includes `r length(list.files("data"))` datasets containing `r nets` networks. 
+The package includes `r length(list.files("data"))` datasets containing 2142 networks. 
 
 A list of all datasets can be obtained with
 ```{r data,eval=FALSE}
