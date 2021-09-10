@@ -21,7 +21,7 @@ navbar:
       href: index.html
     - text: Tutorials
       menu:
-      -  text: Block Post
+      -  text: Blog Post
          href: http://blog.schochastics.net/post/a-large-repository-of-networkdata/
   right:
       - icon: fa-newspaper-o
