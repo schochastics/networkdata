@@ -1,4 +1,4 @@
-#networkdata 0.1.7.9000
+#networkdata 0.1.7
 
 * fixed typo in `movie_439`
 
