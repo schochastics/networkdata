@@ -1,8 +1,12 @@
-#networkdata 0.1.7
+#networkdata 0.1.8
+
+* added `s50`
+
+# networkdata 0.1.7
 
 * fixed typo in `movie_439`
 
-#networkdata 0.1.6
+# networkdata 0.1.6
 
 fixed error in `southern_women`
 

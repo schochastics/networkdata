@@ -86,3 +86,9 @@
 #' @source Data downloaded from https://github.com/evelinag/StarWars-social-network
 #' @format list of igraph objects
 "starwars"
+
+#' 50-actor excerpt from the Teenage Friends and Lifestyle Study data
+#' @description longitudinal, 3 waves, networks and behavior
+#' @source Data downloaded from https://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm
+#' @format list of igraph objects
+"s50"
