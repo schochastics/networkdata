@@ -1,4 +1,8 @@
-#networkdata 0.1.8
+# networkdata 0.1.9
+
+* fixed error in `ffe_*` data (Freeman's page is down, so the new version comes from [here](https://github.com/zalmquist/networkdata))
+
+# networkdata 0.1.8
 
 * added `s50`
 
