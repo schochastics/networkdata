@@ -8,9 +8,7 @@
 [![CRAN
 status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
 [![drat
-status](https://img.shields.io/badge/drat-0.1.6-red.svg)](https://github.com/schochastics/drat)
-[![drat
-status](https://img.shields.io/badge/networks-2142-green.svg)](https://github.com/schochastics/networkdata)
+status](https://img.shields.io/badge/networks-2145-green.svg)](https://github.com/schochastics/networkdata)
 <!-- badges: end -->
 
 The package contains a large variety of different network datasets (all
@@ -31,7 +29,7 @@ repositories:
 -   Star Wars Character Interactions (Episode 1-7) from
     <https://github.com/evelinag/StarWars-social-network>
 
-The package includes 980 datasets containing 2142 networks.
+The package includes 981 datasets containing 2145 networks.
 
 A list of all datasets can be obtained with
 
@@ -39,26 +37,13 @@ A list of all datasets can be obtained with
 data(package = "networkdata")
 ```
 
-~~Alternatively, use the function `show_networks()` to get a list of
-datasets with desired properties.~~ removed
-
 **Feel free to add your own dataset via a pull request**
 
 ## Installation
 
 Due to the nature of the package (only data, no functions), the package
-will not go to CRAN at any point. However, the package is available via
-drat (If you are looking for stable builds of the package). With drat,
-you can install and upgrade non-CRAN packages directly from R using the
-standard `install.packages()` and `update.packages()` functions.
-
-``` r
-# install.packages("drat")
-drat::addRepo("schochastics")
-install.packages("networkdata")
-```
-
-The developer version can be installed with:
+will not go to CRAN at any point. The developer version can be installed
+from github
 
 ``` r
 #install.packages("remotes")
