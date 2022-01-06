@@ -1,3 +1,7 @@
+# networkdata 0.1.10
+
+* fixed names of Florentine Families
+
 # networkdata 0.1.9
 
 * fixed error in `ffe_*` data (Freeman's page is down, so the new version comes from [here](https://github.com/zalmquist/networkdata))
