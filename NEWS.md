@@ -1,3 +1,7 @@
+# networkdata 0.1.11
+
+* added football_triads
+
 # networkdata 0.1.10
 
 * fixed names of Florentine Families

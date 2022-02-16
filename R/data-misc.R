@@ -92,3 +92,11 @@
 #' @source Data downloaded from https://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm
 #' @format list of igraph objects
 "s50"
+
+#' Simplified football results
+#' @description A list of 112 networks of football leagues.
+#' A directed link between team A and B indicates that A won a match against B. Note that there can also be an edge from B to A, since most leagues play a double round robin. For the sake of simplicity, all draws were deleted so that there could also be null ties between two teams if both games ended in a draw.
+#' The data can be used to experiment with the triad census
+#' @source soccerverse.com
+#' @format list of igraph objects
+"football_triad"

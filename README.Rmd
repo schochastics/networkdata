@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
-[![drat status](https://img.shields.io/badge/networks-2145-green.svg)](https://github.com/schochastics/networkdata)
+[![drat status](https://img.shields.io/badge/networks-2257-green.svg)](https://github.com/schochastics/networkdata)
 <!-- badges: end -->
 
 The package contains a large variety of different network datasets (all in `igraph` format). So far, it includes datsets from the following repositories: 
@@ -31,7 +31,7 @@ The package contains a large variety of different network datasets (all in `igra
 - Tennis networks compiled from https://github.com/JeffSackmann (please give credit to him if you use this data) 
 - Star Wars Character Interactions (Episode 1-7) from https://github.com/evelinag/StarWars-social-network
 
-The package includes `r length(list.files("data"))` datasets containing 2145 networks. 
+The package includes `r length(list.files("data"))` datasets containing 2257 networks. 
 
 A list of all datasets can be obtained with
 ```{r data,eval=FALSE}
