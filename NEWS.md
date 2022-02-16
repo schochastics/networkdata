@@ -1,6 +1,6 @@
 # networkdata 0.1.11
 
-* added football_triads
+* added football_triad
 
 # networkdata 0.1.10
 
