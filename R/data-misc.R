@@ -100,3 +100,9 @@
 #' @source soccerverse.com
 #' @format list of igraph objects
 "football_triad"
+
+
+#' Illustrating cliques
+#' @description A small graph to illustrate the concept of cliques and k-cores.
+#' @format igraph object
+"clique_graph"

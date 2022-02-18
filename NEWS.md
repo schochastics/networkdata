@@ -1,6 +1,7 @@
 # networkdata 0.1.11
 
-* added football_triad
+* added `football_triad`
+* added `clique_graph`
 
 # networkdata 0.1.10
 
