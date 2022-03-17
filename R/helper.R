@@ -10,17 +10,17 @@
 #' # all directed networks
 #' show_networks(type = "directed")
 
-show_networks <- function(type="all"){
-  type <- match.arg(type,c("all","two-mode","one-mode","undirected","directed","weighted","unweighted","collection","vattr"))
-  switch(type,
-        `all` = net_attrs,
-        `two-mode` = net_attrs[net_attrs[["is_bipartite"]],],
-        `one-mode` = net_attrs[!net_attrs[["is_bipartite"]],],
-        `undirected` = net_attrs[!net_attrs[["is_directed"]],],
-        `directed` = net_attrs[net_attrs[["is_directed"]],],
-        `weighted` = net_attrs[net_attrs[["is_weighted"]],],
-        `unweighted` = net_attrs[!net_attrs[["is_weighted"]],],
-        `collection` = net_attrs[net_attrs[["is_collection"]],],
-        `vattr` = net_attrs[net_attrs[["has_vattr"]],]
-        )
-}
+# show_networks <- function(type="all"){
+#   type <- match.arg(type,c("all","two-mode","one-mode","undirected","directed","weighted","unweighted","collection","vattr"))
+#   switch(type,
+#         `all` = net_attrs,
+#         `two-mode` = net_attrs[net_attrs[["is_bipartite"]],],
+#         `one-mode` = net_attrs[!net_attrs[["is_bipartite"]],],
+#         `undirected` = net_attrs[!net_attrs[["is_directed"]],],
+#         `directed` = net_attrs[net_attrs[["is_directed"]],],
+#         `weighted` = net_attrs[net_attrs[["is_weighted"]],],
+#         `unweighted` = net_attrs[!net_attrs[["is_weighted"]],],
+#         `collection` = net_attrs[net_attrs[["is_collection"]],],
+#         `vattr` = net_attrs[net_attrs[["has_vattr"]],]
+#         )
+# }
