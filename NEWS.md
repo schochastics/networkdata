@@ -1,3 +1,7 @@
+# networkdata 0.1.12
+
+* added `core_graph`
+
 # networkdata 0.1.11
 
 * added `football_triad`

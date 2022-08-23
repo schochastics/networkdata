@@ -106,3 +106,8 @@
 #' @description A small graph to illustrate the concept of cliques and k-cores.
 #' @format igraph object
 "clique_graph"
+
+#' Illustrating core-periphery
+#' @description A graph to illustrate the concept of core-periphery.
+#' @format igraph object
+"core_graph"
