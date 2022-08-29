@@ -3,7 +3,7 @@
 \docType{data}
 \name{atp}
 \alias{atp}
-\title{ATP Tennis (1968-2019)}
+\title{ATP Tennis (1968-2021)}
 \format{
 list of igraph objects
 }
@@ -14,7 +14,7 @@ Networks constructed from data that was gathered and compiled by Jeff Sackmann (
 atp
 }
 \description{
-The dataset includes all ATP tennis matches from 1968-2019. The networks are directed pointing from the loser to the winner.
+The dataset includes all ATP tennis matches from 1968-2021 The networks are directed pointing from the loser to the winner.
 Each network contains the following attributes:
 \preformatted{
 Edge attributes:

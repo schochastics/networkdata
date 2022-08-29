@@ -44,8 +44,8 @@
 #' @references  Andrew Beveridge and Michael Chemers, "The Game of 'The Game of Thrones': Networked Concordances and Fractal Dramaturgy", in: Paola Brembilla and Ilaria De Pacalis (eds.), Reading Contemporary Serial Television Universes: A Narrative Ecosystem Framework, Routledge, 2018.
 "got"
 
-#' ATP Tennis (1968-2019)
-#' @description The dataset includes all ATP tennis matches from 1968-2019. The networks are directed pointing from the loser to the winner.
+#' ATP Tennis (1968-2021)
+#' @description The dataset includes all ATP tennis matches from 1968-2021 The networks are directed pointing from the loser to the winner.
 #' Each network contains the following attributes:
 #' \preformatted{
 #' Edge attributes:
@@ -62,8 +62,8 @@
 #' @source Networks constructed from data that was gathered and compiled by Jeff Sackmann (https://github.com/JeffSackmann). Please give credit to him if you use this data.
 "atp"
 
-#' WTA Tennis (1968-2019)
-#' @description The dataset includes all WTA tennis matches from 1968-2019. The networks are directed pointing from the loser to the winner.
+#' WTA Tennis (1968-2021)
+#' @description The dataset includes all WTA tennis matches from 1968-2021 The networks are directed pointing from the loser to the winner.
 #' Each network contains the following attributes:
 #' \preformatted{
 #' Edge attributes:

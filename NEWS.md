@@ -1,3 +1,7 @@
+# 0.1.13
+
+* updated `wta` and `atp` until season 2021
+
 # networkdata 0.1.12
 
 * added `core_graph`

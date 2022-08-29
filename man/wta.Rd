@@ -3,7 +3,7 @@
 \docType{data}
 \name{wta}
 \alias{wta}
-\title{WTA Tennis (1968-2019)}
+\title{WTA Tennis (1968-2021)}
 \format{
 list of igraph objects
 }
@@ -14,7 +14,7 @@ Networks constructed from data that was gathered and compiled by Jeff Sackmann (
 wta
 }
 \description{
-The dataset includes all WTA tennis matches from 1968-2019. The networks are directed pointing from the loser to the winner.
+The dataset includes all WTA tennis matches from 1968-2021 The networks are directed pointing from the loser to the winner.
 Each network contains the following attributes:
 \preformatted{
 Edge attributes:
