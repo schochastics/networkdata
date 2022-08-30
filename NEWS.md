@@ -1,6 +1,7 @@
 # 0.1.13
 
 * updated `wta` and `atp` until season 2021
+* added `coleman_friends`
 
 # networkdata 0.1.12
 
