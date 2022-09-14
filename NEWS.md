@@ -1,3 +1,7 @@
+# 0.1.14
+
+* added `knecht` dataset
+
 # 0.1.13
 
 * updated `wta` and `atp` until season 2021
