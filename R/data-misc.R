@@ -138,6 +138,6 @@
 #'  \item{"ethnic"}{Ethnicity (1 = Dutch, 2 = other, 0 = missing)}
 #'  \item{"religion"}{(1 = Christian, 2 = non-religious, 3 = non-Christian religion, 0 = missing)}
 #' }
-#' @format lust of four igraph objects
+#' @format list of four igraph objects
 #' @references Andrea Knecht (2006), Networks and actor attributes in early adolescence, Utrecht, The Netherlands Research School ICS, Department of Sociology, Utrecht University
 "knecht"

@@ -5,7 +5,7 @@
 \alias{knecht}
 \title{Knecht's School Data}
 \format{
-lust of four igraph objects
+list of four igraph objects
 }
 \usage{
 knecht
