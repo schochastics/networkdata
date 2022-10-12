@@ -7,8 +7,8 @@
 
 [![CRAN
 status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
-[![drat
-status](https://img.shields.io/badge/networks-2259-green.svg)](https://github.com/schochastics/networkdata)
+[![networks](https://img.shields.io/badge/networks-2259-green.svg)](https://github.com/schochastics/networkdata)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7189928.svg)](https://doi.org/10.5281/zenodo.7189928)
 <!-- badges: end -->
 
 The package contains a large variety of different network datasets (all
