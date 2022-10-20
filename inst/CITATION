@@ -1,14 +1,14 @@
 citHeader("To cite networkdata in publications use:")
 
 citEntry(
-  entry    = "Article",
+  entry    = "Misc",
   title    = "networkdata: Repository of Network Datasets",
   author   = "David Schoch",
-  journal  = "Zenodo",
+  journal  = "",
   year     = "2022",
   volume   = ,
   number   = ,
   pages    = ,
   url      = "https://doi.org/10.5281/zenodo.7189928",
-  textVersion = paste("David Schoch. (2022). networkdata: Repository of Network Datasets (v0.1.14). Zenodo. https://doi.org/10.5281/zenodo.7189928")
+  textVersion = paste("David Schoch. (2022). networkdata: Repository of Network Datasets (v0.1.14). https://doi.org/10.5281/zenodo.7189928")
 )
