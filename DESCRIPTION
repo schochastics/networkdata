@@ -1,7 +1,7 @@
 Package: networkdata
 Type: Package
 Title: Repository of Network Datasets 
-Version: 0.1.14
+Version: 0.1.15
 Authors@R: 
     person(given = "David",
            family = "Schoch",

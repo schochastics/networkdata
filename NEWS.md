@@ -1,3 +1,7 @@
+# 0.1.15
+
+* added network names for sampson dataset (#10)
+
 # 0.1.14
 
 * added `knecht` dataset
