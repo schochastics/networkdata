@@ -1,35 +1,17 @@
-title: networkdata
-destination: ../pkgdown_sites/networkdata
-
-home:
-  title: Network Datasets for R
-  description: A great variety of network datasets in igraph format
+url: https://schochastics.github.io/networkdata/
 template:
-  opengraph:
-    image:
-      src: man/figures/logo.png
-      alt: "networkdata - Network Datasets for R"
-    twitter:
-      creator: "@schochastics"
-      card: summary_large_image
-  params:
-    bootswatch: simplex
-
+  bootstrap: 5
+  bslib:
+    bg: "#F9F7F7"
+    fg: "#112D4E"
+    primary: "#3F72AF"
+    navbar-color: "#FFFFFF"
+    base_font: {google: "Roboto"}
+    heading_font: {google: "Roboto Slab"}
+    code_font: {google: "JetBrains Mono"}
 navbar:
-  left:
-    - icon: fa-home
-      href: index.html
-    - text: Tutorials
-      menu:
-      -  text: Blog Post
-         href: http://blog.schochastics.net/post/a-large-repository-of-networkdata/
-  right:
-      - icon: fa-newspaper-o
-        text: "News"
-        href: news/index.html
-      - icon: fa-file-code-o
-        text: "Functions"
-        href: reference/index.html
-      - icon: fa-github fa-lg
-        text: "Github"
-        href: https://github.com/schochastics/networkdata
+  bg: none
+  type: light
+  structure:
+    left:  [intro, reference, articles, news]
+    right: [github]
