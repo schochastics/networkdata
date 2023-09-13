@@ -1,12 +1,12 @@
-# 0.1.15
+# networkdata 0.1.15
 
 * added network names for sampson dataset (#10)
 
-# 0.1.14
+# networkdata 0.1.14
 
 * added `knecht` dataset
 
-# 0.1.13
+# networkdata 0.1.13
 
 * updated `wta` and `atp` until season 2021
 * added `coleman_friends`
