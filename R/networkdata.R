@@ -17,13 +17,12 @@
 #'
 #' **How to use the datasets**
 #'
-#'After loading the \code{networkdata} package, the datasets can
-#'be loaded using the \code{\link{data}} command.
+#' After loading the \code{networkdata} package, the datasets can
+#' be loaded using the \code{\link{data}} command.
 #'
-#'Use \preformatted{  data(package = "networkdata")}
-#'to get the complete list of datasets included in this package.
+#' Use \preformatted{  data(package = "networkdata")}
+#' to get the complete list of datasets included in this package.
 #'
-#' @author David Schoch
-#' @docType package
-#' @name networkdata
-NULL
+#' @keywords internal
+#' @aliases networkdata-package
+"_PACKAGE"

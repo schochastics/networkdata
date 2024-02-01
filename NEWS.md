@@ -1,3 +1,7 @@
+# networkdata 0.2.0
+
+* updated graphs according to new igraph release
+
 # networkdata 0.1.15
 
 * added network names for sampson dataset (#10)
