@@ -7,7 +7,7 @@
 
 [![CRAN
 status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
-[![networks](https://img.shields.io/badge/networks-2259-green.svg)](https://github.com/schochastics/networkdata)
+[![networks](https://img.shields.io/badge/networks-2260-green.svg)](https://github.com/schochastics/networkdata)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7189928.svg)](https://doi.org/10.5281/zenodo.7189928)
 <!-- badges: end -->
 
@@ -29,7 +29,7 @@ repositories:
 -   Star Wars Character Interactions (Episode 1-7) from
     <https://github.com/evelinag/StarWars-social-network>
 
-The package includes 986 datasets containing 2259 networks.
+The package includes 987 datasets containing 2260 networks.
 
 A list of all datasets can be obtained with
 
@@ -46,7 +46,7 @@ will not go to CRAN at any point. The developer version can be installed
 from github
 
 ``` r
-#install.packages("remotes")
+# install.packages("remotes")
 remotes::install_github("schochastics/networkdata")
 ```
 

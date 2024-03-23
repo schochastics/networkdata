@@ -6,10 +6,10 @@ output: github_document
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
+    collapse = TRUE,
+    comment = "#>",
+    fig.path = "man/figures/README-",
+    out.width = "100%"
 )
 ```
 
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/networkdata)](https://cran.r-project.org/package=networkdata)
-[![networks](https://img.shields.io/badge/networks-2259-green.svg)](https://github.com/schochastics/networkdata)
+[![networks](https://img.shields.io/badge/networks-2260-green.svg)](https://github.com/schochastics/networkdata)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7189928.svg)](https://doi.org/10.5281/zenodo.7189928)
 <!-- badges: end -->
 
@@ -32,7 +32,7 @@ The package contains a large variety of different network datasets (all in `igra
 - Tennis networks compiled from https://github.com/JeffSackmann (please give credit to him if you use this data) 
 - Star Wars Character Interactions (Episode 1-7) from https://github.com/evelinag/StarWars-social-network
 
-The package includes `r length(list.files("data"))` datasets containing 2259 networks. 
+The package includes `r length(list.files("data"))` datasets containing 2260 networks. 
 
 A list of all datasets can be obtained with
 ```{r data,eval=FALSE}
@@ -47,7 +47,7 @@ Due to the nature of the package (only data, no functions), the package will not
 The developer version can be installed from github
 
 ```{r install, eval=FALSE}
-#install.packages("remotes")
+# install.packages("remotes")
 remotes::install_github("schochastics/networkdata")
 ```
 

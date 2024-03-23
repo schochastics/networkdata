@@ -1,3 +1,7 @@
+# networkdata 0.2.1
+
+* added cosponsorship network
+
 # networkdata 0.2.0
 
 * updated graphs according to new igraph release

@@ -6,7 +6,7 @@
 #' Centrality literature network
 #' @description In 1979, Linton Freeman published a paper which defined several kinds of centrality. His typology has become the standard for network analysis. Freeman, however, was not the first to publish on centrality in networks. His paper is part of a discussion which dates back to the 1940s. The network shows the papers that discuss network centrality and their cross- references until 1979. Arcs represent citations; they point from the cited paper to the citing paper.
 #'
-#'In principle, papers can only cite papers which appeared earlier, so the network is acyclic. Arcs never point back to older papers just like parents cannot be younger than their children. However, there are usually some exceptions in a citation network: papers which cite one another, e.g., papers appearing at about the same time and written by one author. We eliminated these exceptions by shrinking the papers by an author which are connected by cyclic citations. In the centrality literature network, we used the latter approach (e.g., two publications by Gilch in 1954 are shrunk to one paper #GilchSW-54).
+#' In principle, papers can only cite papers which appeared earlier, so the network is acyclic. Arcs never point back to older papers just like parents cannot be younger than their children. However, there are usually some exceptions in a citation network: papers which cite one another, e.g., papers appearing at about the same time and written by one author. We eliminated these exceptions by shrinking the papers by an author which are connected by cyclic citations. In the centrality literature network, we used the latter approach (e.g., two publications by Gilch in 1954 are shrunk to one paper #GilchSW-54).
 #' @format igraph object
 #' @source https://sites.google.com/site/ucinetsoftware/datasets/centralityliteraturenetwork
 #' @references
@@ -30,15 +30,15 @@
 #' These networks were created by parsing fan-generated scripts from https://genius.com/artists/Game-of-thrones.
 #' Pairs of characters are connected by (undirected) edges weighted by the number of interactions.
 #'
-#'\preformatted{
-#'There are five interaction types. Character A and Character B are connected whenever:
+#' \preformatted{
+#' There are five interaction types. Character A and Character B are connected whenever:
 #'
 #' Character A speaks directly after Character B
 #' Character A speaks about Character B
 #' Character C speaks about Character A and Character B
 #' Character A and Character B are mentioned in the same stage direction
 #' Character A and Character B appear in a scene together
-#'}
+#' }
 #' @format list of igraph objects
 #' @source https://networkofthrones.wordpress.com, Downloaded from https://github.com/mathbeveridge/gameofthrones/
 #' @references  Andrew Beveridge and Michael Chemers, "The Game of 'The Game of Thrones': Networked Concordances and Fractal Dramaturgy", in: Paola Brembilla and Ilaria De Pacalis (eds.), Reading Contemporary Serial Television Universes: A Narrative Ecosystem Framework, Routledge, 2018.
@@ -121,7 +121,7 @@
 #' Knecht's School Data
 #' @description This data is about a friendship network in a Dutch school class. The data were collected between September 2003 and June 2004 by Andrea Knecht, supervised by Chris Baerveldt, at the Department of Sociology of the University of Utrecht (NL). The entire study is reported in Knecht (2008).
 #'
-#'The 26 students were followed over their first year at secondary school during which friendship networks as well as other data were assessed at four time points at intervals of three months. There were 17 girls and 9 boys in the class, aged 11-13 at the beginning of the school year. Network data were assessed by asking students to indicate up to twelve classmates which they considered good friends.
+#' The 26 students were followed over their first year at secondary school during which friendship networks as well as other data were assessed at four time points at intervals of three months. There were 17 girls and 9 boys in the class, aged 11-13 at the beginning of the school year. Network data were assessed by asking students to indicate up to twelve classmates which they considered good friends.
 #'
 #' Delinquency is defined as a rounded average over four types of minor delinquency (stealing, vandalism, graffiti, and fighting), measured in each of the four waves of data collection. The five-point scale ranged from `never' to `more than 10 times', and the distribution is highly skewed. In a range of 1-5, the mode was 1 at all four waves, the average rose over time from 1.4 to 2.0, and the value 5 was never observed.
 #' @details  The network contains the following attributes:
@@ -131,8 +131,8 @@
 #'    1 = never, 2 = once, 3 = 2-4 times, 4 = 5-10 times, 5 = more than 10 times;
 #'    0 = missing}
 #'  \item{alcohol}{alcohol "How often did you drink alcohol with friends in the last three months?"
-#'categories: 1 = never, 2 = once, 3 = 2-4 times, 4 = 5-10 times, 5 = more than 10 times;
-#'0 = missing. Only waves 2-4}
+#' categories: 1 = never, 2 = once, 3 = 2-4 times, 4 = 5-10 times, 5 = more than 10 times;
+#' 0 = missing. Only waves 2-4}
 #'  \item{"gender"}{(1 = girl, 2 = boy)}
 #'  \item{"age"}{years}
 #'  \item{"ethnic"}{Ethnicity (1 = Dutch, 2 = other, 0 = missing)}
@@ -141,3 +141,8 @@
 #' @format list of four igraph objects
 #' @references Andrea Knecht (2006), Networks and actor attributes in early adolescence, Utrecht, The Netherlands Research School ICS, Department of Sociology, Utrecht University
 "knecht"
+
+#' Senat 2015 Bill cosponsorship
+#' @description Bill cosponsorship network for the 115th Senate obtained from govtrack.us
+#' @format two-mode network as igraph object
+"cosponsor"
