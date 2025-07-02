@@ -146,3 +146,11 @@
 #' @description Bill cosponsorship network for the 115th Senate obtained from govtrack.us
 #' @format two-mode network as igraph object
 "cosponsor"
+
+
+
+#' Teenage Friends and Lifestyle Study data
+#' @description longitudinal, 3 waves, networks and behavior. For the codebook, see the link provided as source. Only sex.F was recoded to F/M.
+#' @source Data downloaded from https://www.stats.ox.ac.uk/~snijders/siena/Glasgow_data.htm
+#' @format list of igraph objects
+"glasgow129"
