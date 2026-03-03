@@ -1,0 +1,51 @@
+# Wild birds
+
+Species: *Wild birds*
+
+Taxonomic class: Aves
+
+Population type: free-ranging
+
+Geographical location: Oxford, UK
+
+Data collection technique: RFID
+
+Interaction type: social projection bipartite
+
+Definition of interaction: Groups were defined as individuals detected
+on the same nest-box during the same day, and co-memberships represented
+individuals that overlapped in nest-box exploration patterns during the
+same day. Networks were calculated from these group-by-individual
+matrices using the halfweight index.
+
+Edge weight type: half_weight_index
+
+Total duration of data collection: 6 days
+
+Time resolution of data collection (within a day): 1 sec
+
+Time span of data collection (within a day): 12 hours
+
+Note: Each network represents social data collected for consecutive
+6-day time window.
+
+## Usage
+
+``` r
+animal_11
+```
+
+## Format
+
+list of igraph objects
+
+## Source
+
+https: //bansallab.github.io/asnr/
+
+## References
+
+Firth, Josh A., and Ben C. Sheldon. "Experimental manipulation of avian
+social structure reveals segregation is carried over across contexts."
+Proceedings of the Royal Society of London B: Biological Sciences
+282.1802 (2015): 20142350.

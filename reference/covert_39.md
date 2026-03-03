@@ -1,0 +1,39 @@
+# Rhodes Bombing
+
+Data is a social network of the (believed defunct) Greek terrorist group
+November17 (N17) that was derived from open source reporting (Irwin et
+al, 2002; Abram and Smith, 2004). 1-mode matrix 22x22 persons by
+persons. Relations indicate that open source reporting has demonstrated
+some connection between the two individuals at some point in the past.
+Attribute data includes… Role 1= Leader (gives orders), 2 = operational
+(receives orders) Faction 1 = 1st Generation Leadership Faction, 2 =
+Koufontinas Faction, 3 = Sardanopoulos Faction Resources 1= controls one
+resource, 2= controls two resources, 3= controls three resources
+(resources are money, weapons, safe houses) Some attribute data is
+missing
+
+## Usage
+
+``` r
+covert_39
+```
+
+## Format
+
+igraph object
+
+## Source
+
+Available from Manchester
+(https://sites.google.com/site/ucinetsoftware/datasets/covert-networks).
+Reconstructed from Rhodes, C.J. and P. Jones, “Inferring Missing Links
+in Partially Observed Social Networks”, Journal of the Operational
+Research Society (2009) 60, 1373-1383 For more details of attribute data
+see Rhodes CJ, Keefe EMJ (2007). Social network topology: A Bayesian
+approach. J Opl Res Soc 58(12): 1605–1611.
+
+## References
+
+Rhodes, C.J. and P. Jones, “Inferring Missing Links in Partially
+Observed Social Networks”, *Journal of the Operational Research Society*
+(2009) 60, 1373-1383

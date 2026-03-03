@@ -1,0 +1,51 @@
+# Baboon Association (weighted)
+
+Species: *Papio cynocephalus*
+
+Taxonomic class: Mammalia
+
+Population type: free-ranging
+
+Geographical location: Amboseli National Park, Kenya
+
+Data collection technique: focal sampling
+
+Interaction type: spatial proximity
+
+Definition of interaction: These networks were constructed based on
+nearest neighbour data collected during focal sampling.
+
+Edge weight type: frequency
+
+Total duration of data collection: 30days
+
+Time resolution of data collection (within a day):
+
+Time span of data collection (within a day): focal follow/ad libitum
+
+Note: Networks represent grooming interaction or association between
+five social groups of baboons. Each network summarizes data collected
+within 30 days before and 90 days after each knockout. A natural
+knockout was considered to have occurred when a given alpha or beta male
+was present in the group for at least three months prior to his
+disappearance, and then he disappeared permanently from the group.
+
+## Usage
+
+``` r
+animal_16
+```
+
+## Format
+
+list of igraph objects
+
+## Source
+
+https: //bansallab.github.io/asnr/
+
+## References
+
+Franz, Mathias, Jeanne Altmann, and Susan C. Alberts. "Knockouts of
+high-ranking males have limited impact on baboon social networks."
+Current zoology 61.1 (2015): 107-113.
