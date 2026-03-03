@@ -1,3 +1,7 @@
+# networkdata 0.2.3
+
+* added gss dataset
+
 # networkdata 0.2.2
 
 * added full Teenage Friends and Lifestyle Study
