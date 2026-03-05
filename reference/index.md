@@ -1972,6 +1972,8 @@
   : UC forum (messages sent)
 - [`unicodelang`](https://schochastics.github.io/networkdata/reference/unicodelang.md)
   : Unicodelang
+- [`us_flights`](https://schochastics.github.io/networkdata/reference/us_flights.md)
+  : Flights within the US
 - [`usa_borders`](https://schochastics.github.io/networkdata/reference/usa_borders.md)
   : USA Bordering States
 - [`usflights`](https://schochastics.github.io/networkdata/reference/usflights.md)
