@@ -201,3 +201,8 @@
 #' Smith, Tom W., Michael Davern, Jeremy Freese, and Stephen Morgan. General Social Surveys, 1972-2021. Chicago: NORC, 2022.
 #' @seealso \code{\link[egor]{egor}} for working with egocentric network data
 "gss_egor"
+
+#' Flights within the US
+#'
+#' @description A network of flights between US airports
+"us_flights"
